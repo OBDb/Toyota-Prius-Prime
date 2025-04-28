@@ -1,0 +1,28 @@
+command_id: 7D2.221F5B
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7DA04621F5B5E
+  expected_values:
+    PRIUSPRIME_SOC: 36.86275
+- response: 7DA04621F5B63
+  expected_values:
+    PRIUSPRIME_SOC: 38.82353
+- response: 7DA04621F5B64
+  expected_values:
+    PRIUSPRIME_SOC: 39.21569
+- response: 7DA04621F5B67
+  expected_values:
+    PRIUSPRIME_SOC: 40.39216
+- response: 7DA04621F5B68
+  expected_values:
+    PRIUSPRIME_SOC: 40.78431
+- response: 7DA04621F5BA8
+  expected_values:
+    PRIUSPRIME_SOC: 65.88235
+- response: 7DA04621F5BA9
+  expected_values:
+    PRIUSPRIME_SOC: 66.27451
+- response: 7DA04621F5BB3
+  expected_values:
+    PRIUSPRIME_SOC: 70.19608
