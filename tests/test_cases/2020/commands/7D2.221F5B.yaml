@@ -1,0 +1,67 @@
+command_id: 7D2.221F5B
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7DA04621F5B55
+  expected_values:
+    PRIUSPRIME_SOC: 33.33333
+- response: 7DA04621F5B56
+  expected_values:
+    PRIUSPRIME_SOC: 33.72549
+- response: 7DA04621F5B57
+  expected_values:
+    PRIUSPRIME_SOC: 34.11765
+- response: 7DA04621F5B58
+  expected_values:
+    PRIUSPRIME_SOC: 34.5098
+- response: 7DA04621F5B8B
+  expected_values:
+    PRIUSPRIME_SOC: 54.5098
+- response: 7DA04621F5B8C
+  expected_values:
+    PRIUSPRIME_SOC: 54.90196
+- response: 7DA04621F5B8D
+  expected_values:
+    PRIUSPRIME_SOC: 55.29412
+- response: 7DA04621F5B8E
+  expected_values:
+    PRIUSPRIME_SOC: 55.68627
+- response: 7DA04621F5B8F
+  expected_values:
+    PRIUSPRIME_SOC: 56.07843
+- response: 7DA04621F5B90
+  expected_values:
+    PRIUSPRIME_SOC: 56.47059
+- response: 7DA04621F5B91
+  expected_values:
+    PRIUSPRIME_SOC: 56.86275
+- response: 7DA04621F5B92
+  expected_values:
+    PRIUSPRIME_SOC: 57.2549
+- response: 7DA04621F5B93
+  expected_values:
+    PRIUSPRIME_SOC: 57.64706
+- response: 7DA04621F5B94
+  expected_values:
+    PRIUSPRIME_SOC: 58.03922
+- response: 7DA04621F5B96
+  expected_values:
+    PRIUSPRIME_SOC: 58.82353
+- response: 7DA04621F5B97
+  expected_values:
+    PRIUSPRIME_SOC: 59.21569
+- response: 7DA04621F5B98
+  expected_values:
+    PRIUSPRIME_SOC: 59.60784
+- response: 7DA04621F5B9A
+  expected_values:
+    PRIUSPRIME_SOC: 60.39216
+- response: 7DA04621F5B9B
+  expected_values:
+    PRIUSPRIME_SOC: 60.78431
+- response: 7DA04621F5BD3
+  expected_values:
+    PRIUSPRIME_SOC: 82.7451
+- response: 7DA04621F5BD4
+  expected_values:
+    PRIUSPRIME_SOC: 83.13725

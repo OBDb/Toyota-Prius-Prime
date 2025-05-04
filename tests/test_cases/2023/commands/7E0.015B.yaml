@@ -1,0 +1,112 @@
+command_id: 7E0.015B
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7EA03415BB7
+  expected_values:
+    BAT_SOC: 71.76471
+- response: 7EA03415BB8
+  expected_values:
+    BAT_SOC: 72.15686
+- response: 7EA03415BBD
+  expected_values:
+    BAT_SOC: 74.11765
+- response: 7EA03415BC3
+  expected_values:
+    BAT_SOC: 76.47059
+- response: 7EA03415BCC
+  expected_values:
+    BAT_SOC: 80
+- response: 7EA03415BCE
+  expected_values:
+    BAT_SOC: 80.78431
+- response: 7EA03415BCF
+  expected_values:
+    BAT_SOC: 81.17647
+- response: 7EA03415BD0
+  expected_values:
+    BAT_SOC: 81.56863
+- response: 7EA03415BD1
+  expected_values:
+    BAT_SOC: 81.96078
+- response: 7EA03415BD2
+  expected_values:
+    BAT_SOC: 82.35294
+- response: 7EA03415BDA
+  expected_values:
+    BAT_SOC: 85.4902
+- response: 7EA03415BDB
+  expected_values:
+    BAT_SOC: 85.88235
+- response: 7EA03415BDF
+  expected_values:
+    BAT_SOC: 87.45098
+- response: 7EA03415BE2
+  expected_values:
+    BAT_SOC: 88.62745
+- response: 7EA03415BE4
+  expected_values:
+    BAT_SOC: 89.41176
+- response: 7EA03415BE5
+  expected_values:
+    BAT_SOC: 89.80392
+- response: 7EA03415BE8
+  expected_values:
+    BAT_SOC: 90.98039
+- response: 7EB03415BB7
+  expected_values:
+    BAT_SOC: 71.76471
+- response: 7EB03415BB8
+  expected_values:
+    BAT_SOC: 72.15686
+- response: 7EB03415BB9
+  expected_values:
+    BAT_SOC: 72.54902
+- response: 7EB03415BBA
+  expected_values:
+    BAT_SOC: 72.94118
+- response: 7EB03415BBE
+  expected_values:
+    BAT_SOC: 74.5098
+- response: 7EB03415BC1
+  expected_values:
+    BAT_SOC: 75.68627
+- response: 7EB03415BC7
+  expected_values:
+    BAT_SOC: 78.03922
+- response: 7EB03415BCA
+  expected_values:
+    BAT_SOC: 79.21569
+- response: 7EB03415BCB
+  expected_values:
+    BAT_SOC: 79.60784
+- response: 7EB03415BCC
+  expected_values:
+    BAT_SOC: 80
+- response: 7EB03415BCD
+  expected_values:
+    BAT_SOC: 80.39216
+- response: 7EB03415BCE
+  expected_values:
+    BAT_SOC: 80.78431
+- response: 7EB03415BCF
+  expected_values:
+    BAT_SOC: 81.17647
+- response: 7EB03415BD6
+  expected_values:
+    BAT_SOC: 83.92157
+- response: 7EB03415BD7
+  expected_values:
+    BAT_SOC: 84.31373
+- response: 7EB03415BE4
+  expected_values:
+    BAT_SOC: 89.41176
+- response: 7EB03415BE6
+  expected_values:
+    BAT_SOC: 90.19608
+- response: 7EB03415BE7
+  expected_values:
+    BAT_SOC: 90.58824
+- response: 7EB03415BE8
+  expected_values:
+    BAT_SOC: 90.98039

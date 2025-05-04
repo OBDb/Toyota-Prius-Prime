@@ -1,0 +1,91 @@
+command_id: 7E0.01A6
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7EA0641A60007FBB3
+  expected_values:
+    ODO: 52318.7
+- response: 7EA0641A60007FBB7
+  expected_values:
+    ODO: 52319.1
+- response: 7EA0641A60007FBBB
+  expected_values:
+    ODO: 52319.5
+- response: 7EA0641A60007FBBE
+  expected_values:
+    ODO: 52319.8
+- response: 7EA0641A60007FBBF
+  expected_values:
+    ODO: 52319.9
+- response: 7EA0641A60007FBC0
+  expected_values:
+    ODO: 52320
+- response: 7EA0641A60007FC92
+  expected_values:
+    ODO: 52341
+- response: 7EA0641A60007FC93
+  expected_values:
+    ODO: 52341.1
+- response: 7EA0641A60007FC9A
+  expected_values:
+    ODO: 52341.8
+- response: 7EA0641A60007FC9D
+  expected_values:
+    ODO: 52342.1
+- response: 7EA0641A60007FC9F
+  expected_values:
+    ODO: 52342.3
+- response: 7EA0641A60007FCA2
+  expected_values:
+    ODO: 52342.6
+- response: 7EA0641A60007FCA3
+  expected_values:
+    ODO: 52342.7
+- response: 7EA0641A60007FCA7
+  expected_values:
+    ODO: 52343.1
+- response: 7EA0641A60007FCAC
+  expected_values:
+    ODO: 52343.6
+- response: 7EA0641A60007FCAE
+  expected_values:
+    ODO: 52343.8
+- response: 7EA0641A60007FCB0
+  expected_values:
+    ODO: 52344
+- response: 7EA0641A60007FCB2
+  expected_values:
+    ODO: 52344.2
+- response: 7EA0641A60007FCB6
+  expected_values:
+    ODO: 52344.6
+- response: 7EA0641A60007FCB8
+  expected_values:
+    ODO: 52344.8
+- response: 7EA0641A60007FCBA
+  expected_values:
+    ODO: 52345
+- response: 7EA0641A60007FCBD
+  expected_values:
+    ODO: 52345.3
+- response: 7EA0641A60007FCBE
+  expected_values:
+    ODO: 52345.4
+- response: 7EA0641A60007FCC0
+  expected_values:
+    ODO: 52345.6
+- response: 7EA0641A60007FCC3
+  expected_values:
+    ODO: 52345.9
+- response: 7EA0641A60007FCC5
+  expected_values:
+    ODO: 52346.1
+- response: 7EA0641A60007FCC6
+  expected_values:
+    ODO: 52346.2
+- response: 7EA0641A60007FCC7
+  expected_values:
+    ODO: 52346.3
+- response: 7EA0641A60007FD0F
+  expected_values:
+    ODO: 52353.5
