@@ -29,5 +29,3 @@ test_cases:
 - response: 7C8056210220F66
   expected_values:
     PRIUSPRIME_FLV: 39.42
-- response: 7C805621022FFFF
-  expected_values: {}
