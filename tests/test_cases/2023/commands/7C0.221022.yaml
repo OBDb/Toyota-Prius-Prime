@@ -2213,9 +2213,21 @@ test_cases:
 - response: 7C8056210220929
   expected_values:
     PRIUSPRIME_FLV: 23.45
+- response: 7C80562102209E7
+  expected_values:
+    PRIUSPRIME_FLV: 25.35
+- response: 7C8056210220A02
+  expected_values:
+    PRIUSPRIME_FLV: 25.62
+- response: 7C8056210220A32
+  expected_values:
+    PRIUSPRIME_FLV: 26.1
 - response: 7C8056210220A97
   expected_values:
     PRIUSPRIME_FLV: 27.11
+- response: 7C8056210220B6E
+  expected_values:
+    PRIUSPRIME_FLV: 29.26
 - response: 7C8056210220B75
   expected_values:
     PRIUSPRIME_FLV: 29.33
@@ -2228,12 +2240,24 @@ test_cases:
 - response: 7C8056210220BA2
   expected_values:
     PRIUSPRIME_FLV: 29.78
+- response: 7C8056210220BB6
+  expected_values:
+    PRIUSPRIME_FLV: 29.98
 - response: 7C8056210220BCD
   expected_values:
     PRIUSPRIME_FLV: 30.21
 - response: 7C8056210220BCF
   expected_values:
     PRIUSPRIME_FLV: 30.23
+- response: 7C8056210220BD1
+  expected_values:
+    PRIUSPRIME_FLV: 30.25
+- response: 7C8056210220BD4
+  expected_values:
+    PRIUSPRIME_FLV: 30.28
+- response: 7C8056210220C10
+  expected_values:
+    PRIUSPRIME_FLV: 30.88
 - response: 7C8056210220C1D
   expected_values:
     PRIUSPRIME_FLV: 31.01
@@ -2264,6 +2288,9 @@ test_cases:
 - response: 7C8056210220CA1
   expected_values:
     PRIUSPRIME_FLV: 32.33
+- response: 7C8056210220CA4
+  expected_values:
+    PRIUSPRIME_FLV: 32.36
 - response: 7C8056210220CA6
   expected_values:
     PRIUSPRIME_FLV: 32.38
@@ -2273,21 +2300,48 @@ test_cases:
 - response: 7C8056210220CAF
   expected_values:
     PRIUSPRIME_FLV: 32.47
+- response: 7C8056210220CB1
+  expected_values:
+    PRIUSPRIME_FLV: 32.49
+- response: 7C8056210220CB3
+  expected_values:
+    PRIUSPRIME_FLV: 32.51
 - response: 7C8056210220CBE
   expected_values:
     PRIUSPRIME_FLV: 32.62
 - response: 7C8056210220CBF
   expected_values:
     PRIUSPRIME_FLV: 32.63
+- response: 7C8056210220CC2
+  expected_values:
+    PRIUSPRIME_FLV: 32.66
+- response: 7C8056210220CC4
+  expected_values:
+    PRIUSPRIME_FLV: 32.68
 - response: 7C8056210220CC6
   expected_values:
     PRIUSPRIME_FLV: 32.7
+- response: 7C8056210220CD1
+  expected_values:
+    PRIUSPRIME_FLV: 32.81
+- response: 7C8056210220CD4
+  expected_values:
+    PRIUSPRIME_FLV: 32.84
 - response: 7C8056210220CD9
   expected_values:
     PRIUSPRIME_FLV: 32.89
 - response: 7C8056210220CE2
   expected_values:
     PRIUSPRIME_FLV: 32.98
+- response: 7C8056210220CE5
+  expected_values:
+    PRIUSPRIME_FLV: 33.01
+- response: 7C8056210220CE7
+  expected_values:
+    PRIUSPRIME_FLV: 33.03
+- response: 7C8056210220CE8
+  expected_values:
+    PRIUSPRIME_FLV: 33.04
 - response: 7C8056210220CEA
   expected_values:
     PRIUSPRIME_FLV: 33.06
@@ -2300,30 +2354,69 @@ test_cases:
 - response: 7C8056210220CF7
   expected_values:
     PRIUSPRIME_FLV: 33.19
+- response: 7C8056210220CFB
+  expected_values:
+    PRIUSPRIME_FLV: 33.23
 - response: 7C8056210220D00
   expected_values:
     PRIUSPRIME_FLV: 33.28
 - response: 7C8056210220D06
   expected_values:
     PRIUSPRIME_FLV: 33.34
+- response: 7C8056210220D11
+  expected_values:
+    PRIUSPRIME_FLV: 33.45
+- response: 7C8056210220D17
+  expected_values:
+    PRIUSPRIME_FLV: 33.51
 - response: 7C8056210220D1E
   expected_values:
     PRIUSPRIME_FLV: 33.58
+- response: 7C8056210220D22
+  expected_values:
+    PRIUSPRIME_FLV: 33.62
+- response: 7C8056210220D2D
+  expected_values:
+    PRIUSPRIME_FLV: 33.73
+- response: 7C8056210220D30
+  expected_values:
+    PRIUSPRIME_FLV: 33.76
 - response: 7C8056210220D37
   expected_values:
     PRIUSPRIME_FLV: 33.83
 - response: 7C8056210220D3B
   expected_values:
     PRIUSPRIME_FLV: 33.87
+- response: 7C8056210220D3E
+  expected_values:
+    PRIUSPRIME_FLV: 33.9
 - response: 7C8056210220D46
   expected_values:
     PRIUSPRIME_FLV: 33.98
+- response: 7C8056210220D48
+  expected_values:
+    PRIUSPRIME_FLV: 34
+- response: 7C8056210220D4C
+  expected_values:
+    PRIUSPRIME_FLV: 34.04
+- response: 7C8056210220D4D
+  expected_values:
+    PRIUSPRIME_FLV: 34.05
+- response: 7C8056210220D52
+  expected_values:
+    PRIUSPRIME_FLV: 34.1
+- response: 7C8056210220D54
+  expected_values:
+    PRIUSPRIME_FLV: 34.12
 - response: 7C8056210220D59
   expected_values:
     PRIUSPRIME_FLV: 34.17
 - response: 7C8056210220D5C
   expected_values:
     PRIUSPRIME_FLV: 34.2
+- response: 7C8056210220D5D
+  expected_values:
+    PRIUSPRIME_FLV: 34.21
 - response: 7C8056210220D62
   expected_values:
     PRIUSPRIME_FLV: 34.26
@@ -2345,9 +2438,21 @@ test_cases:
 - response: 7C8056210220D6B
   expected_values:
     PRIUSPRIME_FLV: 34.35
+- response: 7C8056210220D6C
+  expected_values:
+    PRIUSPRIME_FLV: 34.36
+- response: 7C8056210220D6E
+  expected_values:
+    PRIUSPRIME_FLV: 34.38
 - response: 7C8056210220D72
   expected_values:
     PRIUSPRIME_FLV: 34.42
+- response: 7C8056210220D76
+  expected_values:
+    PRIUSPRIME_FLV: 34.46
+- response: 7C8056210220D78
+  expected_values:
+    PRIUSPRIME_FLV: 34.48
 - response: 7C8056210220D79
   expected_values:
     PRIUSPRIME_FLV: 34.49
@@ -2357,6 +2462,9 @@ test_cases:
 - response: 7C8056210220D80
   expected_values:
     PRIUSPRIME_FLV: 34.56
+- response: 7C8056210220D81
+  expected_values:
+    PRIUSPRIME_FLV: 34.57
 - response: 7C8056210220D88
   expected_values:
     PRIUSPRIME_FLV: 34.64
@@ -2366,6 +2474,9 @@ test_cases:
 - response: 7C8056210220D90
   expected_values:
     PRIUSPRIME_FLV: 34.72
+- response: 7C8056210220D92
+  expected_values:
+    PRIUSPRIME_FLV: 34.74
 - response: 7C8056210220D99
   expected_values:
     PRIUSPRIME_FLV: 34.81
@@ -2375,15 +2486,30 @@ test_cases:
 - response: 7C8056210220D9C
   expected_values:
     PRIUSPRIME_FLV: 34.84
+- response: 7C8056210220D9D
+  expected_values:
+    PRIUSPRIME_FLV: 34.85
 - response: 7C8056210220D9E
   expected_values:
     PRIUSPRIME_FLV: 34.86
+- response: 7C8056210220D9F
+  expected_values:
+    PRIUSPRIME_FLV: 34.87
+- response: 7C8056210220DA4
+  expected_values:
+    PRIUSPRIME_FLV: 34.92
+- response: 7C8056210220DAB
+  expected_values:
+    PRIUSPRIME_FLV: 34.99
 - response: 7C8056210220DAE
   expected_values:
     PRIUSPRIME_FLV: 35.02
 - response: 7C8056210220DB3
   expected_values:
     PRIUSPRIME_FLV: 35.07
+- response: 7C8056210220DB9
+  expected_values:
+    PRIUSPRIME_FLV: 35.13
 - response: 7C8056210220DBD
   expected_values:
     PRIUSPRIME_FLV: 35.17
@@ -2405,27 +2531,48 @@ test_cases:
 - response: 7C8056210220DC8
   expected_values:
     PRIUSPRIME_FLV: 35.28
+- response: 7C8056210220DCA
+  expected_values:
+    PRIUSPRIME_FLV: 35.3
 - response: 7C8056210220DCE
   expected_values:
     PRIUSPRIME_FLV: 35.34
 - response: 7C8056210220DCF
   expected_values:
     PRIUSPRIME_FLV: 35.35
+- response: 7C8056210220DD4
+  expected_values:
+    PRIUSPRIME_FLV: 35.4
 - response: 7C8056210220DD5
   expected_values:
     PRIUSPRIME_FLV: 35.41
 - response: 7C8056210220DD8
   expected_values:
     PRIUSPRIME_FLV: 35.44
+- response: 7C8056210220DDA
+  expected_values:
+    PRIUSPRIME_FLV: 35.46
 - response: 7C8056210220DDE
   expected_values:
     PRIUSPRIME_FLV: 35.5
 - response: 7C8056210220DE0
   expected_values:
     PRIUSPRIME_FLV: 35.52
+- response: 7C8056210220DE2
+  expected_values:
+    PRIUSPRIME_FLV: 35.54
+- response: 7C8056210220DE3
+  expected_values:
+    PRIUSPRIME_FLV: 35.55
+- response: 7C8056210220DE6
+  expected_values:
+    PRIUSPRIME_FLV: 35.58
 - response: 7C8056210220DEA
   expected_values:
     PRIUSPRIME_FLV: 35.62
+- response: 7C8056210220DEC
+  expected_values:
+    PRIUSPRIME_FLV: 35.64
 - response: 7C8056210220DED
   expected_values:
     PRIUSPRIME_FLV: 35.65
@@ -2438,6 +2585,9 @@ test_cases:
 - response: 7C8056210220DF3
   expected_values:
     PRIUSPRIME_FLV: 35.71
+- response: 7C8056210220DF4
+  expected_values:
+    PRIUSPRIME_FLV: 35.72
 - response: 7C8056210220DF6
   expected_values:
     PRIUSPRIME_FLV: 35.74
@@ -2468,6 +2618,9 @@ test_cases:
 - response: 7C8056210220E14
   expected_values:
     PRIUSPRIME_FLV: 36.04
+- response: 7C8056210220E1B
+  expected_values:
+    PRIUSPRIME_FLV: 36.11
 - response: 7C8056210220E20
   expected_values:
     PRIUSPRIME_FLV: 36.16
@@ -2480,12 +2633,21 @@ test_cases:
 - response: 7C8056210220E27
   expected_values:
     PRIUSPRIME_FLV: 36.23
+- response: 7C8056210220E2A
+  expected_values:
+    PRIUSPRIME_FLV: 36.26
 - response: 7C8056210220E2D
   expected_values:
     PRIUSPRIME_FLV: 36.29
+- response: 7C8056210220E30
+  expected_values:
+    PRIUSPRIME_FLV: 36.32
 - response: 7C8056210220E34
   expected_values:
     PRIUSPRIME_FLV: 36.36
+- response: 7C8056210220E35
+  expected_values:
+    PRIUSPRIME_FLV: 36.37
 - response: 7C8056210220E39
   expected_values:
     PRIUSPRIME_FLV: 36.41
@@ -2495,15 +2657,24 @@ test_cases:
 - response: 7C8056210220E3D
   expected_values:
     PRIUSPRIME_FLV: 36.45
+- response: 7C8056210220E40
+  expected_values:
+    PRIUSPRIME_FLV: 36.48
 - response: 7C8056210220E43
   expected_values:
     PRIUSPRIME_FLV: 36.51
+- response: 7C8056210220E46
+  expected_values:
+    PRIUSPRIME_FLV: 36.54
 - response: 7C8056210220E47
   expected_values:
     PRIUSPRIME_FLV: 36.55
 - response: 7C8056210220E48
   expected_values:
     PRIUSPRIME_FLV: 36.56
+- response: 7C8056210220E49
+  expected_values:
+    PRIUSPRIME_FLV: 36.57
 - response: 7C8056210220E4A
   expected_values:
     PRIUSPRIME_FLV: 36.58
@@ -2513,6 +2684,12 @@ test_cases:
 - response: 7C8056210220E52
   expected_values:
     PRIUSPRIME_FLV: 36.66
+- response: 7C8056210220E53
+  expected_values:
+    PRIUSPRIME_FLV: 36.67
+- response: 7C8056210220E56
+  expected_values:
+    PRIUSPRIME_FLV: 36.7
 - response: 7C8056210220E57
   expected_values:
     PRIUSPRIME_FLV: 36.71
@@ -2522,9 +2699,15 @@ test_cases:
 - response: 7C8056210220E60
   expected_values:
     PRIUSPRIME_FLV: 36.8
+- response: 7C8056210220E62
+  expected_values:
+    PRIUSPRIME_FLV: 36.82
 - response: 7C8056210220E63
   expected_values:
     PRIUSPRIME_FLV: 36.83
+- response: 7C8056210220E67
+  expected_values:
+    PRIUSPRIME_FLV: 36.87
 - response: 7C8056210220E68
   expected_values:
     PRIUSPRIME_FLV: 36.88
@@ -2537,6 +2720,9 @@ test_cases:
 - response: 7C8056210220E73
   expected_values:
     PRIUSPRIME_FLV: 36.99
+- response: 7C8056210220E74
+  expected_values:
+    PRIUSPRIME_FLV: 37
 - response: 7C8056210220E75
   expected_values:
     PRIUSPRIME_FLV: 37.01
@@ -2570,6 +2756,12 @@ test_cases:
 - response: 7C8056210220E9F
   expected_values:
     PRIUSPRIME_FLV: 37.43
+- response: 7C8056210220EA0
+  expected_values:
+    PRIUSPRIME_FLV: 37.44
+- response: 7C8056210220EA1
+  expected_values:
+    PRIUSPRIME_FLV: 37.45
 - response: 7C8056210220EA3
   expected_values:
     PRIUSPRIME_FLV: 37.47
@@ -2579,6 +2771,9 @@ test_cases:
 - response: 7C8056210220EB4
   expected_values:
     PRIUSPRIME_FLV: 37.64
+- response: 7C8056210220EB5
+  expected_values:
+    PRIUSPRIME_FLV: 37.65
 - response: 7C8056210220EBA
   expected_values:
     PRIUSPRIME_FLV: 37.7
@@ -2588,12 +2783,24 @@ test_cases:
 - response: 7C8056210220EC0
   expected_values:
     PRIUSPRIME_FLV: 37.76
+- response: 7C8056210220EC2
+  expected_values:
+    PRIUSPRIME_FLV: 37.78
+- response: 7C8056210220EC3
+  expected_values:
+    PRIUSPRIME_FLV: 37.79
 - response: 7C8056210220EC7
   expected_values:
     PRIUSPRIME_FLV: 37.83
+- response: 7C8056210220EC9
+  expected_values:
+    PRIUSPRIME_FLV: 37.85
 - response: 7C8056210220ECB
   expected_values:
     PRIUSPRIME_FLV: 37.87
+- response: 7C8056210220ECE
+  expected_values:
+    PRIUSPRIME_FLV: 37.9
 - response: 7C8056210220ED1
   expected_values:
     PRIUSPRIME_FLV: 37.93
@@ -2603,6 +2810,9 @@ test_cases:
 - response: 7C8056210220ED7
   expected_values:
     PRIUSPRIME_FLV: 37.99
+- response: 7C8056210220ED8
+  expected_values:
+    PRIUSPRIME_FLV: 38
 - response: 7C8056210220EDC
   expected_values:
     PRIUSPRIME_FLV: 38.04
@@ -2615,6 +2825,9 @@ test_cases:
 - response: 7C8056210220EED
   expected_values:
     PRIUSPRIME_FLV: 38.21
+- response: 7C8056210220EF3
+  expected_values:
+    PRIUSPRIME_FLV: 38.27
 - response: 7C8056210220EF4
   expected_values:
     PRIUSPRIME_FLV: 38.28
@@ -2651,6 +2864,9 @@ test_cases:
 - response: 7C8056210220F0C
   expected_values:
     PRIUSPRIME_FLV: 38.52
+- response: 7C8056210220F0D
+  expected_values:
+    PRIUSPRIME_FLV: 38.53
 - response: 7C8056210220F0E
   expected_values:
     PRIUSPRIME_FLV: 38.54
@@ -2708,6 +2924,9 @@ test_cases:
 - response: 7C8056210220F34
   expected_values:
     PRIUSPRIME_FLV: 38.92
+- response: 7C8056210220F37
+  expected_values:
+    PRIUSPRIME_FLV: 38.95
 - response: 7C8056210220F38
   expected_values:
     PRIUSPRIME_FLV: 38.96
@@ -2753,6 +2972,9 @@ test_cases:
 - response: 7C8056210220F60
   expected_values:
     PRIUSPRIME_FLV: 39.36
+- response: 7C8056210220F62
+  expected_values:
+    PRIUSPRIME_FLV: 39.38
 - response: 7C8056210220F63
   expected_values:
     PRIUSPRIME_FLV: 39.39
@@ -2801,6 +3023,9 @@ test_cases:
 - response: 7C8056210220F82
   expected_values:
     PRIUSPRIME_FLV: 39.7
+- response: 7C8056210220F83
+  expected_values:
+    PRIUSPRIME_FLV: 39.71
 - response: 7C8056210220F87
   expected_values:
     PRIUSPRIME_FLV: 39.75
@@ -2921,6 +3146,9 @@ test_cases:
 - response: 7C8056210220FBA
   expected_values:
     PRIUSPRIME_FLV: 40.26
+- response: 7C8056210220FBB
+  expected_values:
+    PRIUSPRIME_FLV: 40.27
 - response: 7C8056210220FBC
   expected_values:
     PRIUSPRIME_FLV: 40.28
@@ -2996,5 +3224,3 @@ test_cases:
 - response: 7C8056210220FE0
   expected_values:
     PRIUSPRIME_FLV: 40.64
-- response: 7C805621022FFFF
-  expected_values: {}
