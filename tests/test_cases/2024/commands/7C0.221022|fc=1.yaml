@@ -1,29 +1,14 @@
 command_id: 7C0.221022|fc=1
 test_cases:
-- response: 7C805621022054B
-  expected_values:
-    PRIUSPRIME_FLV: 13.55
-- response: 7C8056210220571
-  expected_values:
-    PRIUSPRIME_FLV: 13.93
-- response: 7C80562102205C1
-  expected_values:
-    PRIUSPRIME_FLV: 14.73
-- response: 7C8056210220F60
-  expected_values:
-    PRIUSPRIME_FLV: 39.36
-- response: 7C8056210220F61
-  expected_values:
-    PRIUSPRIME_FLV: 39.37
-- response: 7C8056210220F62
-  expected_values:
-    PRIUSPRIME_FLV: 39.38
-- response: 7C8056210220F63
-  expected_values:
-    PRIUSPRIME_FLV: 39.39
-- response: 7C8056210220F64
-  expected_values:
-    PRIUSPRIME_FLV: 39.4
-- response: 7C8056210220F66
-  expected_values:
-    PRIUSPRIME_FLV: 39.42
+- expected_values:
+    PRIUSPRIME_FLV: 9.43
+  response: 7C80562102203AF
+- expected_values:
+    PRIUSPRIME_FLV: 15.35
+  response: 7C80562102205FF
+- expected_values:
+    PRIUSPRIME_FLV: 15.36
+  response: 7C8056210220600
+- expected_values:
+    PRIUSPRIME_FLV: 38.4
+  response: 7C8056210220F00
