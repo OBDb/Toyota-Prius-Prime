@@ -1,8 +1,8 @@
 command_id: 7D2.221F5B|fc=1
 test_cases:
-- response: 7DA04621F5B1E
-  expected_values:
-    PRIUSPRIME_SOC: 11.76471
-- response: 7DA04621F5BE8
-  expected_values:
+- expected_values:
+    PRIUSPRIME_SOC: 9.41176
+  response: 7DA04621F5B18
+- expected_values:
     PRIUSPRIME_SOC: 90.98039
+  response: 7DA04621F5BE8
