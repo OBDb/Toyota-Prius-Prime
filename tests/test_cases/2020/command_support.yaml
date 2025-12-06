@@ -166,6 +166,7 @@ supported_commands_by_ecu:
   - 0142:VPWR
   - 014D:MIL_TIME
   - 014E:CLR_TIME
+  - 7E7.7EF.010D
 unsupported_commands_by_ecu:
   "750":
   - 750.758.221004|e=2A,ta=2A,fc=1:PRIUSPRIME_TT_1,PRIUSPRIME_TT_2,PRIUSPRIME_TT_3,PRIUSPRIME_TT_4
@@ -274,7 +275,6 @@ unsupported_commands_by_ecu:
   "7E7":
   - 7E7.7EF.0104
   - 7E7.7EF.0105
-  - 7E7.7EF.010D
   - 7E7.7EF.0111
   - 7E7.7EF.011F
   - 7E7.7EF.0131
