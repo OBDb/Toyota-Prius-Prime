@@ -1,6 +1,14 @@
 command_id: 750.758.222021|e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
+    PRIUSPRIME_TID_1: FL
+    PRIUSPRIME_TID_2: FR
+    PRIUSPRIME_TID_3: RL
+    PRIUSPRIME_TID_4: RR
+  response: |-
+    7582A10086220210102
+    7582A21030400000000
+- expected_values:
     PRIUSPRIME_TID_1: FR
     PRIUSPRIME_TID_2: FL
     PRIUSPRIME_TID_3: RR
