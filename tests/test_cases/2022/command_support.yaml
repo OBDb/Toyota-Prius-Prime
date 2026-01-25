@@ -4,6 +4,8 @@ supported_commands_by_ecu:
   - 7D2.221F5B|fc=1:PRIUSPRIME_SOC
   "7DF":
   - 7DF.0103
+  - 7DF.0104
+  - 7DF.0105
   - 7DF.010D
   - 7DF.011C
   - 7DF.011F
