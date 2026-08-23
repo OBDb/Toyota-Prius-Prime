@@ -20,6 +20,7 @@ supported_commands_by_ecu:
   - 7DF.0134
   - 7DF.013C
   - 7DF.013E
+  - 7DF.0141
   - 7DF.0142
   - 7DF.0144
   - 7DF.0145
@@ -196,6 +197,7 @@ unsupported_commands_by_ecu:
   - 7E2.7EA.014D
   - 7E2.7EA.014E
   - 7E2.7EA.015B
+  - 7E2.7EA.019A
   "7E3":
   - 7E3.7EB.0101
   - 7E3.7EB.0105
@@ -212,6 +214,7 @@ unsupported_commands_by_ecu:
   - 7E3.7EB.014D
   - 7E3.7EB.014E
   - 7E3.7EB.015B
+  - 7E3.7EB.019A
   "7E5":
   - 7E5.7ED.0101
   - 7E5.7ED.0104
@@ -242,6 +245,7 @@ unsupported_commands_by_ecu:
   - 7E6.7EE.0146
   - 7E6.7EE.014D
   - 7E6.7EE.014E
+  - 7E6.7EE.019A
   "7E7":
   - 7E7.7EF.0101
   - 7E7.7EF.0105
