@@ -44,13 +44,13 @@
         }}
     }
   ]},
-{ "hdr": "7C0", "rax": "7C8", "cmd": {"21": "29"}, "freq": 5, "filter": { "to": 2022 }, "dbgfilter": { "to": 2022 },
-  "signals": [
-    {"id": "PRIUSPRIME_FLI_VOL", "path": "Fuel", "fmt": { "len": 8, "max": 127.5, "div": 2, "unit": "liters" }, "name": "Fuel level (volume)", "suggestedMetric": "fuelTankLevel"}
-  ]},
 { "hdr": "7C0", "fcm1": true, "cmd": {"22": "1022"}, "freq": 1, "dbgfilter": { "to": 2019, "years": [2021, 2022], "from": 2027 },
   "signals": [
     {"id": "PRIUSPRIME_FLV", "path": "Fuel", "fmt": { "len": 16, "max": 655, "div": 100, "nullmax": 655, "unit": "liters" }, "name": "Fuel remaining", "suggestedMetric": "fuelTankLevel"}
+  ]},
+{ "hdr": "7C0", "rax": "7C8", "cmd": {"21": "29"}, "freq": 5, "filter": { "to": 2022 }, "dbgfilter": { "to": 2022 },
+  "signals": [
+    {"id": "PRIUSPRIME_FLI_VOL", "path": "Fuel", "fmt": { "len": 8, "max": 127.5, "div": 2, "unit": "liters" }, "name": "Fuel level (volume)", "suggestedMetric": "fuelTankLevel"}
   ]},
 { "hdr": "7D2", "fcm1": true, "cmd": {"22": "1F5B"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019], "from": 2027 },
   "signals": [
