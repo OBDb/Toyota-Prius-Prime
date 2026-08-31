@@ -48,7 +48,7 @@
   "signals": [
     {"id": "PRIUSPRIME_FLV", "path": "Fuel", "fmt": { "len": 16, "max": 655, "div": 100, "nullmax": 655, "unit": "liters" }, "name": "Fuel remaining", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "7C0", "rax": "7C8", "cmd": {"21": "29"}, "freq": 5, "filter": { "to": 2022 }, "dbgfilter": { "to": 2022 },
+{ "hdr": "7C0", "rax": "7C8", "dbg": true, "cmd": {"21": "29"}, "freq": 5, "filter": { "to": 2022 },
   "signals": [
     {"id": "PRIUSPRIME_FLI_VOL", "path": "Fuel", "fmt": { "len": 8, "max": 127.5, "div": 2, "unit": "liters" }, "name": "Fuel level (volume)", "suggestedMetric": "fuelTankLevel"}
   ]},
