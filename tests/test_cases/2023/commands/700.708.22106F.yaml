@@ -21,3 +21,9 @@ test_cases:
 - expected_values:
     PRIUSPRIME_INTAKE_VVT_TARGET_ANGLE_B1: 30.84526
   response: 7080562106F0C57
+- expected_values:
+    PRIUSPRIME_INTAKE_VVT_TARGET_ANGLE_B1: 33.80383
+  response: 7080562106F0D86
+- expected_values:
+    PRIUSPRIME_INTAKE_VVT_TARGET_ANGLE_B1: 44.99366
+  response: 7080562106F1200

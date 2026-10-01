@@ -7,8 +7,8 @@ test_cases:
     PRIUSPRIME_CAT_T_11: 447
   response: 70805621F3C1306
 - expected_values:
-    PRIUSPRIME_CAT_T_11: 471
-  response: 70805621F3C13F6
+    PRIUSPRIME_CAT_T_11: 548.3
+  response: 70805621F3C16FB
 - expected_values:
-    PRIUSPRIME_CAT_T_11: 609.1
-  response: 70805621F3C195B
+    PRIUSPRIME_CAT_T_11: 661.8
+  response: 70805621F3C1B6A

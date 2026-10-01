@@ -2,25 +2,7 @@ command_id: 7D2.7DA.2215EE
 test_cases:
 - expected_values:
     PRIUSPRIME_12V_V_V2: 14.1641
-  response: 7DA056215EE2D84
+  response: 7DA056215EE2D74
 - expected_values:
     PRIUSPRIME_12V_V_V2: 14.1641
-  response: 7DA056215EE2D86
-- expected_values:
-    PRIUSPRIME_12V_V_V2: 14.1641
-  response: 7DA056215EE2D88
-- expected_values:
-    PRIUSPRIME_12V_V_V2: 14.1641
-  response: 7DA056215EE2D8A
-- expected_values:
-    PRIUSPRIME_12V_V_V2: 14.1641
-  response: 7DA056215EE2D8C
-- expected_values:
-    PRIUSPRIME_12V_V_V2: 14.1641
-  response: 7DA056215EE2D8E
-- expected_values:
-    PRIUSPRIME_12V_V_V2: 14.1641
-  response: 7DA056215EE2D90
-- expected_values:
-    PRIUSPRIME_12V_V_V2: 14.1641
-  response: 7DA056215EE2D94
+  response: 7DA056215EE2DA2

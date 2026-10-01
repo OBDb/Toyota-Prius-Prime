@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     PRIUSPRIME_INVRT_COOLANT_T: 26
   response: 7DA046210B242
+- expected_values:
+    PRIUSPRIME_INVRT_COOLANT_T: 27
+  response: 7DA046210B243
+- expected_values:
+    PRIUSPRIME_INVRT_COOLANT_T: 28
+  response: 7DA046210B244
