@@ -4,5 +4,5 @@ test_cases:
     PRIUSPRIME_EOT_V2: 19
   response: 70804621F5C3B
 - expected_values:
-    PRIUSPRIME_EOT_V2: 52
-  response: 70804621F5C5C
+    PRIUSPRIME_EOT_V2: 71
+  response: 70804621F5C6F

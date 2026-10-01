@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     PRIUSPRIME_HVBAT_MIN_T: 22
   response: 7DA0562182A4800
+- expected_values:
+    PRIUSPRIME_HVBAT_MIN_T: 23
+  response: 7DA0562182A4900

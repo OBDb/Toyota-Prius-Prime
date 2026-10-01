@@ -1,6 +1,12 @@
 command_id: 7D2.7DA.221F46
 test_cases:
 - expected_values:
+    PRIUSPRIME_AAT_7D2: 14
+  response: 7DA04621F4636
+- expected_values:
+    PRIUSPRIME_AAT_7D2: 15
+  response: 7DA04621F4637
+- expected_values:
     PRIUSPRIME_AAT_7D2: 16
   response: 7DA04621F4638
 - expected_values:

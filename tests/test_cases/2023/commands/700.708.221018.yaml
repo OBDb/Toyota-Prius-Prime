@@ -7,8 +7,14 @@ test_cases:
     PRIUSPRIME_INJECTOR_PORT: 2.458
   response: 70805621018099A
 - expected_values:
+    PRIUSPRIME_INJECTOR_PORT: 2.74
+  response: 708056210180AB4
+- expected_values:
     PRIUSPRIME_INJECTOR_PORT: 2.918
   response: 708056210180B66
+- expected_values:
+    PRIUSPRIME_INJECTOR_PORT: 4.543
+  response: 7080562101811BF
 - expected_values:
     PRIUSPRIME_INJECTOR_PORT: 6.563
   response: 7080562101819A3
@@ -18,6 +24,9 @@ test_cases:
 - expected_values:
     PRIUSPRIME_INJECTOR_PORT: 7.316
   response: 708056210181C94
+- expected_values:
+    PRIUSPRIME_INJECTOR_PORT: 8.262
+  response: '708056210182046'
 - expected_values:
     PRIUSPRIME_INJECTOR_PORT: 10.016
   response: '708056210182720'

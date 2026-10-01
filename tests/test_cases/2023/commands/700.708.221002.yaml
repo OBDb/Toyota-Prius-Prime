@@ -1,8 +1,8 @@
 command_id: 700.708.221002
 test_cases:
 - expected_values:
-    PRIUSPRIME_12V_V: 14.12106
-  response: 708056210022D30
+    PRIUSPRIME_12V_V: 12.04098
+  response: '708056210022688'
 - expected_values:
-    PRIUSPRIME_12V_V: 14.18453
-  response: 708056210022D64
+    PRIUSPRIME_12V_V: 14.11129
+  response: 708056210022D28
