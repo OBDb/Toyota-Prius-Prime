@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.221039
+test_cases:
+- expected_values:
+    PRIUSPRIME_FRONT_REAR_MOTOR_TQ: -29.804
+  response: 7DA076210391E3D0B94
+- expected_values:
+    PRIUSPRIME_FRONT_REAR_MOTOR_TQ: -29.729
+  response: 7DA076210391EE10BDF
+- expected_values:
+    PRIUSPRIME_FRONT_REAR_MOTOR_TQ: -29.718
+  response: 7DA076210391EE10BEA

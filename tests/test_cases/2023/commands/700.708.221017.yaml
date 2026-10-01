@@ -1,0 +1,23 @@
+command_id: 700.708.221017
+test_cases:
+- expected_values:
+    PRIUSPRIME_INJ_VOL: 0
+  response: '708056210170000'
+- expected_values:
+    PRIUSPRIME_INJ_VOL: 0.84
+  response: 708056210170A80
+- expected_values:
+    PRIUSPRIME_INJ_VOL: 1.0625
+  response: 708056210170D48
+- expected_values:
+    PRIUSPRIME_INJ_VOL: 1.54969
+  response: 70805621017135F
+- expected_values:
+    PRIUSPRIME_INJ_VOL: 2.48594
+  response: 708056210171F13
+- expected_values:
+    PRIUSPRIME_INJ_VOL: 2.89125
+  response: '708056210172424'
+- expected_values:
+    PRIUSPRIME_INJ_VOL: 3.26062
+  response: 7080562101728C2

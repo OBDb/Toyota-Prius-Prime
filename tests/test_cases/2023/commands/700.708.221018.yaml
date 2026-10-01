@@ -1,0 +1,23 @@
+command_id: 700.708.221018
+test_cases:
+- expected_values:
+    PRIUSPRIME_INJECTOR_PORT: 0
+  response: '708056210180000'
+- expected_values:
+    PRIUSPRIME_INJECTOR_PORT: 2.458
+  response: 70805621018099A
+- expected_values:
+    PRIUSPRIME_INJECTOR_PORT: 2.918
+  response: 708056210180B66
+- expected_values:
+    PRIUSPRIME_INJECTOR_PORT: 6.563
+  response: 7080562101819A3
+- expected_values:
+    PRIUSPRIME_INJECTOR_PORT: 7.277
+  response: 708056210181C6D
+- expected_values:
+    PRIUSPRIME_INJECTOR_PORT: 7.316
+  response: 708056210181C94
+- expected_values:
+    PRIUSPRIME_INJECTOR_PORT: 10.016
+  response: '708056210182720'
