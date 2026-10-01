@@ -1,0 +1,11 @@
+command_id: 700.708.221019
+test_cases:
+- expected_values:
+    PRIUSPRIME_INJECTION: BOTH
+  response: '7080762101902328000'
+- expected_values:
+    PRIUSPRIME_INJECTION: BOTH
+  response: '7080762101902798000'
+- expected_values:
+    PRIUSPRIME_INJECTION: BOTH
+  response: '7080762101902858000'

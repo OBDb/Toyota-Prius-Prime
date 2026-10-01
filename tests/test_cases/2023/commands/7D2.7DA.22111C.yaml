@@ -1,0 +1,32 @@
+command_id: 7D2.7DA.22111C
+test_cases:
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_OUTPUT: 28.90625
+  response: 7DA0462111C25
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_OUTPUT: 29.6875
+  response: 7DA0462111C26
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_OUTPUT: 31.25
+  response: 7DA0462111C28
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_OUTPUT: 32.03125
+  response: 7DA0462111C29
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_OUTPUT: 32.8125
+  response: 7DA0462111C2A
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_OUTPUT: 34.375
+  response: 7DA0462111C2C
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_OUTPUT: 37.5
+  response: 7DA0462111C30
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_OUTPUT: 38.28125
+  response: 7DA0462111C31
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_OUTPUT: 42.1875
+  response: 7DA0462111C36
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_OUTPUT: 46.875
+  response: 7DA0462111C3C
