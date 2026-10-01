@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.22111E
+test_cases:
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_HIGH_SIDE_V: 223.38865
+  response: 7DA0562111E0726
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_HIGH_SIDE_V: 249.8779
+  response: 7DA0562111E07FF
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_HIGH_SIDE_V: 250.61033
+  response: 7DA0562111E0805

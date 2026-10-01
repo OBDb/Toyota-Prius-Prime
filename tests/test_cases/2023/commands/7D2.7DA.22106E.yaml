@@ -1,0 +1,17 @@
+command_id: 7D2.7DA.22106E
+test_cases:
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS: 0
+  response: 7DA0462106E00
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS: 0.2
+  response: 7DA0462106E04
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS: 0.25
+  response: 7DA0462106E05
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS: 0.3
+  response: 7DA0462106E06
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS: 0.45
+  response: 7DA0462106E09

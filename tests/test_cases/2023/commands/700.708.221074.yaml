@@ -1,0 +1,23 @@
+command_id: 700.708.221074
+test_cases:
+- expected_values:
+    PRIUSPRIME_EOP: 0
+  response: '708056210740000'
+- expected_values:
+    PRIUSPRIME_EOP: 106.48438
+  response: '708056210740553'
+- expected_values:
+    PRIUSPRIME_EOP: 130.23438
+  response: '708056210740683'
+- expected_values:
+    PRIUSPRIME_EOP: 218.4375
+  response: 708056210740AEC
+- expected_values:
+    PRIUSPRIME_EOP: 340.85938
+  response: 70805621074110B
+- expected_values:
+    PRIUSPRIME_EOP: 359.375
+  response: 7080562107411F8
+- expected_values:
+    PRIUSPRIME_EOP: 440.3125
+  response: '708056210741604'

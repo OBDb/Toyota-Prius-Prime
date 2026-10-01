@@ -1,0 +1,23 @@
+command_id: 700.708.22106A
+test_cases:
+- expected_values:
+    PRIUSPRIME_FUEL_PUMP_DUTY_RATIO: 30
+  response: 7080562106A01EC
+- expected_values:
+    PRIUSPRIME_FUEL_PUMP_DUTY_RATIO: 215.48781
+  response: 7080562106A0DCE
+- expected_values:
+    PRIUSPRIME_FUEL_PUMP_DUTY_RATIO: 219.20732
+  response: 7080562106A0E0B
+- expected_values:
+    PRIUSPRIME_FUEL_PUMP_DUTY_RATIO: 232.37805
+  response: 7080562106A0EE3
+- expected_values:
+    PRIUSPRIME_FUEL_PUMP_DUTY_RATIO: 234.69512
+  response: 7080562106A0F09
+- expected_values:
+    PRIUSPRIME_FUEL_PUMP_DUTY_RATIO: 243.53659
+  response: 7080562106A0F9A
+- expected_values:
+    PRIUSPRIME_FUEL_PUMP_DUTY_RATIO: 250.67073
+  response: 7080562106A100F
