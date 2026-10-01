@@ -1,8 +1,14 @@
 command_id: 7D2.7DA.22111D
 test_cases:
 - expected_values:
+    PRIUSPRIME_DC_DC_CONV_LOW_SIDE_V: 13.98348
+  response: 7DA0462111DB3
+- expected_values:
     PRIUSPRIME_DC_DC_CONV_LOW_SIDE_V: 14.0616
   response: 7DA0462111DB4
 - expected_values:
     PRIUSPRIME_DC_DC_CONV_LOW_SIDE_V: 14.13972
   response: 7DA0462111DB5
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_LOW_SIDE_V: 14.21784
+  response: 7DA0462111DB6

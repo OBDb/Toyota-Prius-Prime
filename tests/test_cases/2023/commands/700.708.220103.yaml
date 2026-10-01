@@ -15,3 +15,18 @@ test_cases:
 - expected_values:
     PRIUSPRIME_ENG_ODO: 16777
   response: '7080762010302004189'
+- expected_values:
+    PRIUSPRIME_ENG_ODO: 16778
+  response: 708076201030200418A
+- expected_values:
+    PRIUSPRIME_ENG_ODO: 16779
+  response: 708076201030200418B
+- expected_values:
+    PRIUSPRIME_ENG_ODO: 16780
+  response: 708076201030200418C
+- expected_values:
+    PRIUSPRIME_ENG_ODO: 16781
+  response: 708076201030200418D
+- expected_values:
+    PRIUSPRIME_ENG_ODO: 16782
+  response: 708076201030200418E

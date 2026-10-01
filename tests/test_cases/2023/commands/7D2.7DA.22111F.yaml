@@ -4,17 +4,8 @@ test_cases:
     PRIUSPRIME_DC_DC_CONV_TGT_V: 27.09961
   response: 7DA0562111F00DE
 - expected_values:
-    PRIUSPRIME_DC_DC_CONV_TGT_V: 30.02929
-  response: 7DA0562111F00F6
-- expected_values:
-    PRIUSPRIME_DC_DC_CONV_TGT_V: 30.3955
-  response: 7DA0562111F00F9
-- expected_values:
-    PRIUSPRIME_DC_DC_CONV_TGT_V: 30.51758
-  response: 7DA0562111F00FA
-- expected_values:
-    PRIUSPRIME_DC_DC_CONV_TGT_V: 30.63965
-  response: 7DA0562111F00FB
-- expected_values:
     PRIUSPRIME_DC_DC_CONV_TGT_V: 31.00586
   response: 7DA0562111F00FE
+- expected_values:
+    PRIUSPRIME_DC_DC_CONV_TGT_V: 31.25
+  response: 7DA0562111F0100

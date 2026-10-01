@@ -12,3 +12,21 @@ test_cases:
 - expected_values:
     PRIUSPRIME_ODO_V2_V2: 16776
   response: 7DA0762010302004188
+- expected_values:
+    PRIUSPRIME_ODO_V2_V2: 16777
+  response: 7DA0762010302004189
+- expected_values:
+    PRIUSPRIME_ODO_V2_V2: 16778
+  response: 7DA076201030200418A
+- expected_values:
+    PRIUSPRIME_ODO_V2_V2: 16779
+  response: 7DA076201030200418B
+- expected_values:
+    PRIUSPRIME_ODO_V2_V2: 16780
+  response: 7DA076201030200418C
+- expected_values:
+    PRIUSPRIME_ODO_V2_V2: 16781
+  response: 7DA076201030200418D
+- expected_values:
+    PRIUSPRIME_ODO_V2_V2: 16782
+  response: 7DA076201030200418E

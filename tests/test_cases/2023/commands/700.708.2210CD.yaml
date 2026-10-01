@@ -4,11 +4,11 @@ test_cases:
     PRIUSPRIME_LFP: 336.5
   response: 708056210CD8D25
 - expected_values:
-    PRIUSPRIME_LFP: 381.9
-  response: 708056210CD8EEB
+    PRIUSPRIME_LFP: 436.1
+  response: 708056210CD9109
 - expected_values:
-    PRIUSPRIME_LFP: 436.4
-  response: 708056210CD910C
+    PRIUSPRIME_LFP: 486.1
+  response: 708056210CD92FD
 - expected_values:
-    PRIUSPRIME_LFP: 518.6
-  response: 708056210CD9442
+    PRIUSPRIME_LFP: 638.2
+  response: 708056210CD98EE
