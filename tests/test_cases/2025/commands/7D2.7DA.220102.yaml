@@ -1,0 +1,37 @@
+command_id: 7D2.7DA.220102
+test_cases:
+- expected_values:
+    PRIUSPRIME_KEY_CYCLE: 2362
+  response: |-
+    7DA100A620102093A00
+    7DA2106110601000000
+- expected_values:
+    PRIUSPRIME_KEY_CYCLE: 2362
+  response: |-
+    7DA100A620102093A00
+    7DA2108304101000000
+- expected_values:
+    PRIUSPRIME_KEY_CYCLE: 2362
+  response: |-
+    7DA100A620102093A00
+    7DA210F5E1401000000
+- expected_values:
+    PRIUSPRIME_KEY_CYCLE: 2362
+  response: |-
+    7DA100A620102093A00
+    7DA21103E8701000000
+- expected_values:
+    PRIUSPRIME_KEY_CYCLE: 2362
+  response: |-
+    7DA100A620102093A00
+    7DA211137DF01000000
+- expected_values:
+    PRIUSPRIME_KEY_CYCLE: 2363
+  response: |-
+    7DA100A620102093B00
+    7DA21020AB001000000
+- expected_values:
+    PRIUSPRIME_KEY_CYCLE: 2364
+  response: |-
+    7DA100A620102093C00
+    7DA2100C9A901000000

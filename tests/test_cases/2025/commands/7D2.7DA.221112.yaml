@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.221112
+test_cases:
+- expected_values:
+    PRIUSPRIME_INVERTER_WATER_PMP: 48.08111
+  response: 7DA056211123D8B
+- expected_values:
+    PRIUSPRIME_INVERTER_WATER_PMP: 48.35577
+  response: 7DA056211123DE5
+- expected_values:
+    PRIUSPRIME_INVERTER_WATER_PMP: 48.45343
+  response: 7DA056211123E05

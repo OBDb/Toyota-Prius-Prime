@@ -1,0 +1,11 @@
+command_id: 700.708.221062
+test_cases:
+- expected_values:
+    PRIUSPRIME_EXHAUST_VVT_OCV_CONTROL_DUTY: 0
+  response: '708056210620000'
+- expected_values:
+    PRIUSPRIME_EXHAUST_VVT_OCV_CONTROL_DUTY: 10.80339
+  response: 7080562106206EA
+- expected_values:
+    PRIUSPRIME_EXHAUST_VVT_OCV_CONTROL_DUTY: 10.94987
+  response: '708056210620702'
