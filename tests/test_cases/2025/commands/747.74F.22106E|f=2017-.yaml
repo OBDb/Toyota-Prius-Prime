@@ -1,0 +1,11 @@
+command_id: 747.74F.22106E|f=2017-
+test_cases:
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS_747: -12500
+  response: 74F0462106E00
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS_747: -12499.9975
+  response: 74F0462106E05
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS_747: -12499.995
+  response: 74F0462106E0A

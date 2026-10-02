@@ -1,0 +1,8 @@
+command_id: 747.74F.220103|fc=1,f=2017-
+test_cases:
+- expected_values:
+    PRIUSPRIME_ODO: 23966
+  response: 74F0762010302005D9E
+- expected_values:
+    PRIUSPRIME_ODO: 23992
+  response: 74F0762010302005DB8

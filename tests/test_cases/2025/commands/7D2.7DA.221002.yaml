@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.221002
+test_cases:
+- expected_values:
+    PRIUSPRIME_AUX_BAT_V: 12.51232
+  response: 7DA056210022810
+- expected_values:
+    PRIUSPRIME_AUX_BAT_V: 13.39072
+  response: 7DA056210022AE0
+- expected_values:
+    PRIUSPRIME_AUX_BAT_V: 13.93728
+  response: 7DA056210022CA0

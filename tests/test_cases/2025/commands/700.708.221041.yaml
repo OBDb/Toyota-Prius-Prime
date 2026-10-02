@@ -1,0 +1,34 @@
+command_id: 700.708.221041
+test_cases:
+- expected_values:
+    PRIUSPRIME_ECT_IGN: 20
+    PRIUSPRIME_ECT_INIT: 20.625
+  response: '708056210416061'
+- expected_values:
+    PRIUSPRIME_ECT_IGN: 20
+    PRIUSPRIME_ECT_INIT: 21.25
+  response: '708056210416062'
+- expected_values:
+    PRIUSPRIME_ECT_IGN: 20
+    PRIUSPRIME_ECT_INIT: 21.875
+  response: '708056210416063'
+- expected_values:
+    PRIUSPRIME_ECT_IGN: 20
+    PRIUSPRIME_ECT_INIT: 22.5
+  response: '708056210416064'
+- expected_values:
+    PRIUSPRIME_ECT_IGN: 23.75
+    PRIUSPRIME_ECT_INIT: 23.75
+  response: '708056210416666'
+- expected_values:
+    PRIUSPRIME_ECT_IGN: 23.75
+    PRIUSPRIME_ECT_INIT: 24.375
+  response: '708056210416667'
+- expected_values:
+    PRIUSPRIME_ECT_IGN: 23.75
+    PRIUSPRIME_ECT_INIT: 25
+  response: '708056210416668'
+- expected_values:
+    PRIUSPRIME_ECT_IGN: 24.375
+    PRIUSPRIME_ECT_INIT: 25
+  response: '708056210416768'

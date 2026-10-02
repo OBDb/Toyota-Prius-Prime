@@ -1,0 +1,8 @@
+command_id: 700.708.221046
+test_cases:
+- expected_values:
+    PRIUSPRIME_COOLING_FAN_DUTY_RATIO: 5
+  response: 708046210460A
+- expected_values:
+    PRIUSPRIME_COOLING_FAN_DUTY_RATIO: 38
+  response: 708046210464C

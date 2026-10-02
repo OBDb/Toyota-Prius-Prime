@@ -1,0 +1,14 @@
+command_id: 7B0.7B8.221006
+test_cases:
+- expected_values:
+    PRIUSPRIME_MASTER_CYL_TEMP: 20
+  response: 7B8056210066400
+- expected_values:
+    PRIUSPRIME_MASTER_CYL_TEMP: 21
+  response: 7B8056210066500
+- expected_values:
+    PRIUSPRIME_MASTER_CYL_TEMP: 22
+  response: 7B8056210066600
+- expected_values:
+    PRIUSPRIME_MASTER_CYL_TEMP: 24
+  response: 7B8056210066800
