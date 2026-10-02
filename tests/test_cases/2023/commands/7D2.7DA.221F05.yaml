@@ -4,5 +4,5 @@ test_cases:
     PRIUSPRIME_COOL_T: 19
   response: 7DA04621F053B
 - expected_values:
-    PRIUSPRIME_COOL_T: 87
-  response: 7DA04621F057F
+    PRIUSPRIME_COOL_T: null
+  response: 7DA04621F05FF
