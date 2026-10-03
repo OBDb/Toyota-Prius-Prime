@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PRIUSPRIME_COOLING_FAN_DUTY_RATIO: 0
   response: '7080462104600'
+- expected_values:
+    PRIUSPRIME_COOLING_FAN_DUTY_RATIO: 38
+  response: 708046210464C

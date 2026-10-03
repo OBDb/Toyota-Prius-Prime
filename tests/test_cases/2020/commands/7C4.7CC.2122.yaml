@@ -6,3 +6,27 @@ test_cases:
 - expected_values:
     PRIUSPRIME_AAT_7C4: 26.75
   response: 7CC0361228F
+- expected_values:
+    PRIUSPRIME_AAT_7C4: 27.1
+  response: 7CC03612290
+- expected_values:
+    PRIUSPRIME_AAT_7C4: 27.45
+  response: 7CC03612291
+- expected_values:
+    PRIUSPRIME_AAT_7C4: 29.2
+  response: 7CC03612296
+- expected_values:
+    PRIUSPRIME_AAT_7C4: 32.35
+  response: 7CC0361229F
+- expected_values:
+    PRIUSPRIME_AAT_7C4: 35.15
+  response: 7CC036122A7
+- expected_values:
+    PRIUSPRIME_AAT_7C4: 36.55
+  response: 7CC036122AB
+- expected_values:
+    PRIUSPRIME_AAT_7C4: 37.25
+  response: 7CC036122AD
+- expected_values:
+    PRIUSPRIME_AAT_7C4: 38.65
+  response: 7CC036122B1

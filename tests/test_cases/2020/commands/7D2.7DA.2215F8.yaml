@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     PRIUSPRIME_12V_T: 24.9
   response: 7DA056215F80289
+- expected_values:
+    PRIUSPRIME_12V_T: 25.9
+  response: 7DA056215F80293
+- expected_values:
+    PRIUSPRIME_12V_T: 26.9
+  response: 7DA056215F8029D

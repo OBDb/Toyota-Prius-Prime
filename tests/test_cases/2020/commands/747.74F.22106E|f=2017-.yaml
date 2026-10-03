@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PRIUSPRIME_AC_POWER_CONS_747: -12500
   response: 74F0462106E00
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS_747: -12499.991
+  response: 74F0462106E12

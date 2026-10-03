@@ -4,5 +4,23 @@ test_cases:
     PRIUSPRIME_ADJUSTED_AMBIENT_T: 26.16
   response: 7CC03613DB2
 - expected_values:
+    PRIUSPRIME_ADJUSTED_AMBIENT_T: 26.48
+  response: 7CC03613DB3
+- expected_values:
     PRIUSPRIME_ADJUSTED_AMBIENT_T: 26.8
   response: 7CC03613DB4
+- expected_values:
+    PRIUSPRIME_ADJUSTED_AMBIENT_T: 29.36
+  response: 7CC03613DBC
+- expected_values:
+    PRIUSPRIME_ADJUSTED_AMBIENT_T: 30
+  response: 7CC03613DBE
+- expected_values:
+    PRIUSPRIME_ADJUSTED_AMBIENT_T: 30.32
+  response: 7CC03613DBF
+- expected_values:
+    PRIUSPRIME_ADJUSTED_AMBIENT_T: 31.28
+  response: 7CC03613DC2
+- expected_values:
+    PRIUSPRIME_ADJUSTED_AMBIENT_T: 31.92
+  response: 7CC03613DC4

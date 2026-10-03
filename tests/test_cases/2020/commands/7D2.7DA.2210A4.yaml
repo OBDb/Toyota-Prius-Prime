@@ -5,4 +5,10 @@ test_cases:
   response: 7DA066210A448494B
 - expected_values:
     PRIUSPRIME_GEN_INVERTER_T: 33
-  response: 7DA066210A449494B
+  response: 7DA066210A4494B4D
+- expected_values:
+    PRIUSPRIME_GEN_INVERTER_T: 44
+  response: 7DA066210A4544A55
+- expected_values:
+    PRIUSPRIME_GEN_INVERTER_T: 45
+  response: 7DA066210A4554A55

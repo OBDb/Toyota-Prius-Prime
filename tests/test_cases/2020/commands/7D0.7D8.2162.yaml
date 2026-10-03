@@ -4,5 +4,8 @@ test_cases:
     PRIUSPRIME_PARKING_BRAKE: 0
   response: 7D80461620100
 - expected_values:
-    PRIUSPRIME_PARKING_BRAKE: 1
-  response: 7D80461620300
+    PRIUSPRIME_PARKING_BRAKE: 0
+  response: 7D80461620131
+- expected_values:
+    PRIUSPRIME_PARKING_BRAKE: 0
+  response: 7D80461621903
