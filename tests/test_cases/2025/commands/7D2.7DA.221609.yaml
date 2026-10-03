@@ -1,11 +1,11 @@
 command_id: 7D2.7DA.221609
 test_cases:
 - expected_values:
-    PRIUSPRIME_HVBAT_CHRG_V: 100
-  response: 7DA0562160909BA
-- expected_values:
-    PRIUSPRIME_HVBAT_CHRG_V: 100
-  response: 7DA056216090A00
+    PRIUSPRIME_HVBAT_CHRG_V: 0
+  response: 7DA056216090000
 - expected_values:
     PRIUSPRIME_HVBAT_CHRG_V: 100
   response: 7DA056216090AFA
+- expected_values:
+    PRIUSPRIME_HVBAT_CHRG_V: 100
+  response: 7DA056216090B0E

@@ -4,26 +4,5 @@ test_cases:
     PRIUSPRIME_EOT_V2: 20
   response: 70804621F5C3C
 - expected_values:
-    PRIUSPRIME_EOT_V2: 21
-  response: 70804621F5C3D
-- expected_values:
-    PRIUSPRIME_EOT_V2: 24
-  response: 70804621F5C40
-- expected_values:
-    PRIUSPRIME_EOT_V2: 25
-  response: 70804621F5C41
-- expected_values:
-    PRIUSPRIME_EOT_V2: 26
-  response: 70804621F5C42
-- expected_values:
-    PRIUSPRIME_EOT_V2: 35
-  response: 70804621F5C4B
-- expected_values:
-    PRIUSPRIME_EOT_V2: 54
-  response: 70804621F5C5E
-- expected_values:
-    PRIUSPRIME_EOT_V2: 63
-  response: 70804621F5C67
-- expected_values:
-    PRIUSPRIME_EOT_V2: 68
-  response: 70804621F5C6C
+    PRIUSPRIME_EOT_V2: 80
+  response: 70804621F5C78

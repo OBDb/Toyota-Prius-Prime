@@ -1,17 +1,8 @@
 command_id: 700.708.221F46
 test_cases:
 - expected_values:
-    PRIUSPRIME_AMBIENT_T: 20
-  response: 70804621F463C
+    PRIUSPRIME_AMBIENT_T: 12
+  response: 70804621F4634
 - expected_values:
-    PRIUSPRIME_AMBIENT_T: 21
-  response: 70804621F463D
-- expected_values:
-    PRIUSPRIME_AMBIENT_T: 22
-  response: 70804621F463E
-- expected_values:
-    PRIUSPRIME_AMBIENT_T: 23
-  response: 70804621F463F
-- expected_values:
-    PRIUSPRIME_AMBIENT_T: 24
-  response: 70804621F4640
+    PRIUSPRIME_AMBIENT_T: 27
+  response: 70804621F4643

@@ -1,20 +1,14 @@
 command_id: 700.708.221F3E
 test_cases:
 - expected_values:
-    PRIUSPRIME_CAT_T_12: 252.2
-  response: 70805621F3E0B6A
+    PRIUSPRIME_CAT_T_12: 99.2
+  response: 70805621F3E0570
 - expected_values:
-    PRIUSPRIME_CAT_T_12: 288.1
-  response: 70805621F3E0CD1
+    PRIUSPRIME_CAT_T_12: 445.7
+  response: 70805621F3E12F9
 - expected_values:
-    PRIUSPRIME_CAT_T_12: 474.8
-  response: 70805621F3E141C
-- expected_values:
-    PRIUSPRIME_CAT_T_12: 529.6
-  response: 70805621F3E1640
-- expected_values:
-    PRIUSPRIME_CAT_T_12: 554.2
-  response: 70805621F3E1736
+    PRIUSPRIME_CAT_T_12: 575.8
+  response: 70805621F3E180E
 - expected_values:
     PRIUSPRIME_CAT_T_12: 603
   response: 70805621F3E191E

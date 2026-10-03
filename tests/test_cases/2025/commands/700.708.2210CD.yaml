@@ -1,8 +1,8 @@
 command_id: 700.708.2210CD
 test_cases:
 - expected_values:
-    PRIUSPRIME_LFP: 255.4
-  response: 708056210CD89FA
+    PRIUSPRIME_LFP: 191
+  response: 708056210CD8776
 - expected_values:
     PRIUSPRIME_LFP: 307
   response: 708056210CD8BFE
@@ -10,5 +10,5 @@ test_cases:
     PRIUSPRIME_LFP: 384.1
   response: 708056210CD8F01
 - expected_values:
-    PRIUSPRIME_LFP: 612.8
-  response: 708056210CD97F0
+    PRIUSPRIME_LFP: 593.8
+  response: 708056210CD9732

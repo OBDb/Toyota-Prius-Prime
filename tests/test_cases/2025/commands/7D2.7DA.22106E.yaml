@@ -9,3 +9,24 @@ test_cases:
 - expected_values:
     PRIUSPRIME_AC_POWER_CONS: 0.5
   response: 7DA0462106E0A
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS: 0.7
+  response: 7DA0462106E0E
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS: 0.75
+  response: 7DA0462106E0F
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS: 0.8
+  response: 7DA0462106E10
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS: 0.85
+  response: 7DA0462106E11
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS: 0.9
+  response: 7DA0462106E12
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS: 1
+  response: 7DA0462106E14
+- expected_values:
+    PRIUSPRIME_AC_POWER_CONS: 1.4
+  response: 7DA0462106E1C
