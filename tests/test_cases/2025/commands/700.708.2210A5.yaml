@@ -5,3 +5,23 @@ test_cases:
   response: |-
     70810086210A5000000
     7082100800000000000
+- expected_values:
+    PRIUSPRIME_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000000
+    7082100D30000000000
+- expected_values:
+    PRIUSPRIME_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000000
+    7082100DA0000000000
+- expected_values:
+    PRIUSPRIME_MISFIRE_CNT: 0
+  response: |-
+    70810086210A500011F
+    7082100D90000000000
+- expected_values:
+    PRIUSPRIME_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000189
+    70821009C0000000000

@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     PRIUSPRIME_INJECTOR_PORT: 0
   response: '708056210180000'
+- expected_values:
+    PRIUSPRIME_INJECTOR_PORT: 2.541
+  response: 7080562101809ED
+- expected_values:
+    PRIUSPRIME_INJECTOR_PORT: 3.967
+  response: 708056210180F7F
