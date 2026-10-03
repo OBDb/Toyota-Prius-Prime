@@ -1,0 +1,11 @@
+command_id: 7C4.7CC.2121
+test_cases:
+- expected_values:
+    PRIUSPRIME_CABIN_T: 28
+  response: 7CC0361218A
+- expected_values:
+    PRIUSPRIME_CABIN_T: 28.25
+  response: 7CC0361218B
+- expected_values:
+    PRIUSPRIME_CABIN_T: 28.5
+  response: 7CC0361218C

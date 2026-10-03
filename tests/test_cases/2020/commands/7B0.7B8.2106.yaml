@@ -1,0 +1,10 @@
+command_id: 7B0.7B8.2106
+test_cases:
+- expected_values:
+    PRIUSPRIME_YAW_1: 0
+    PRIUSPRIME_YAW_2: 0
+  response: 7B806610680807FE2
+- expected_values:
+    PRIUSPRIME_YAW_1: 17
+    PRIUSPRIME_YAW_2: 17
+  response: 7B806610691918D4D

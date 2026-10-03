@@ -1,0 +1,11 @@
+command_id: 747.74F.221F5B|f=2017-
+test_cases:
+- expected_values:
+    PRIUSPRIME_HYBRID_BAT_SOC: 42.35294
+  response: 74F04621F5B6C
+- expected_values:
+    PRIUSPRIME_HYBRID_BAT_SOC: 42.7451
+  response: 74F04621F5B6D
+- expected_values:
+    PRIUSPRIME_HYBRID_BAT_SOC: 44.70588
+  response: 74F04621F5B72
