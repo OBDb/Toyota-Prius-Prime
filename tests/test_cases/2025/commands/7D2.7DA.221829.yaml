@@ -1,32 +1,8 @@
 command_id: 7D2.7DA.221829
 test_cases:
 - expected_values:
-    PRIUSPRIME_HVBAT_MAX_T: 25
-  response: 7DA056218294B00
+    PRIUSPRIME_HVBAT_MAX_T: 24
+  response: 7DA056218294A00
 - expected_values:
-    PRIUSPRIME_HVBAT_MAX_T: 26
-  response: 7DA056218294C00
-- expected_values:
-    PRIUSPRIME_HVBAT_MAX_T: 27
-  response: 7DA056218294D00
-- expected_values:
-    PRIUSPRIME_HVBAT_MAX_T: 28
-  response: 7DA056218294E00
-- expected_values:
-    PRIUSPRIME_HVBAT_MAX_T: 29
-  response: 7DA056218294F00
-- expected_values:
-    PRIUSPRIME_HVBAT_MAX_T: 30
-  response: 7DA056218295000
-- expected_values:
-    PRIUSPRIME_HVBAT_MAX_T: 31
-  response: 7DA056218295100
-- expected_values:
-    PRIUSPRIME_HVBAT_MAX_T: 32
-  response: 7DA056218295200
-- expected_values:
-    PRIUSPRIME_HVBAT_MAX_T: 33
-  response: 7DA056218295300
-- expected_values:
-    PRIUSPRIME_HVBAT_MAX_T: 35
-  response: 7DA056218295500
+    PRIUSPRIME_HVBAT_MAX_T: 36
+  response: 7DA056218295600

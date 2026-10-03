@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.22111C
 test_cases:
 - expected_values:
-    PRIUSPRIME_DC_DC_CONV_OUTPUT: 15.625
-  response: 7DA0462111C14
+    PRIUSPRIME_DC_DC_CONV_OUTPUT: 0
+  response: 7DA0462111C00
 - expected_values:
-    PRIUSPRIME_DC_DC_CONV_OUTPUT: 42.96875
-  response: 7DA0462111C37
+    PRIUSPRIME_DC_DC_CONV_OUTPUT: 60.15625
+  response: 7DA0462111C4D

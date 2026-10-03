@@ -4,23 +4,11 @@ test_cases:
     PRIUSPRIME_EOP: 0.46875
   response: '708056210740006'
 - expected_values:
-    PRIUSPRIME_EOP: 0.85938
-  response: 70805621074000B
+    PRIUSPRIME_EOP: 240.07812
+  response: 708056210740C01
 - expected_values:
-    PRIUSPRIME_EOP: 1.17188
-  response: 70805621074000F
+    PRIUSPRIME_EOP: 297.65625
+  response: 708056210740EE2
 - expected_values:
-    PRIUSPRIME_EOP: 1.5625
-  response: '708056210740014'
-- expected_values:
-    PRIUSPRIME_EOP: 1.875
-  response: '708056210740018'
-- expected_values:
-    PRIUSPRIME_EOP: 2.57812
-  response: '708056210740021'
-- expected_values:
-    PRIUSPRIME_EOP: 145.54688
-  response: '708056210740747'
-- expected_values:
-    PRIUSPRIME_EOP: 190.23438
-  response: '708056210740983'
+    PRIUSPRIME_EOP: 466.48438
+  response: '708056210741753'

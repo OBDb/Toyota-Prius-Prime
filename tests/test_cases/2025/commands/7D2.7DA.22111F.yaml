@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.22111F
 test_cases:
 - expected_values:
-    PRIUSPRIME_DC_DC_CONV_TGT_V: 30.27343
-  response: 7DA0562111F00F8
+    PRIUSPRIME_DC_DC_CONV_TGT_V: 29.90722
+  response: 7DA0562111F00F5
 - expected_values:
     PRIUSPRIME_DC_DC_CONV_TGT_V: 31.12793
   response: 7DA0562111F00FF
