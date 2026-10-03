@@ -4,5 +4,5 @@ test_cases:
     PRIUSPRIME_AMBIENT_T: 12
   response: 70804621F4634
 - expected_values:
-    PRIUSPRIME_AMBIENT_T: 27
-  response: 70804621F4643
+    PRIUSPRIME_AMBIENT_T: 28
+  response: 70804621F4644

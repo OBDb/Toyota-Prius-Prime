@@ -4,8 +4,8 @@ test_cases:
     PRIUSPRIME_AUX_BAT_V: 12.06336
   response: 7DA0562100226A0
 - expected_values:
-    PRIUSPRIME_AUX_BAT_V: 13.4444
-  response: 7DA056210022B0C
+    PRIUSPRIME_AUX_BAT_V: 12.50256
+  response: 7DA056210022808
 - expected_values:
     PRIUSPRIME_AUX_BAT_V: 13.93728
   response: 7DA056210022CA0

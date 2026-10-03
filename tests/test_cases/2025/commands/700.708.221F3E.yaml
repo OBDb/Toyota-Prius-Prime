@@ -4,8 +4,8 @@ test_cases:
     PRIUSPRIME_CAT_T_12: 99.2
   response: 70805621F3E0570
 - expected_values:
-    PRIUSPRIME_CAT_T_12: 445.7
-  response: 70805621F3E12F9
+    PRIUSPRIME_CAT_T_12: 394.5
+  response: 70805621F3E10F9
 - expected_values:
     PRIUSPRIME_CAT_T_12: 575.8
   response: 70805621F3E180E
