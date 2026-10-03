@@ -3,3 +3,30 @@ test_cases:
 - expected_values:
     PRIUSPRIME_VSS_7C0: 0
   response: 7C803612100
+- expected_values:
+    PRIUSPRIME_VSS_7C0: 5
+  response: 7C803612105
+- expected_values:
+    PRIUSPRIME_VSS_7C0: 7
+  response: 7C803612107
+- expected_values:
+    PRIUSPRIME_VSS_7C0: 8
+  response: 7C803612108
+- expected_values:
+    PRIUSPRIME_VSS_7C0: 10
+  response: 7C80361210A
+- expected_values:
+    PRIUSPRIME_VSS_7C0: 11
+  response: 7C80361210B
+- expected_values:
+    PRIUSPRIME_VSS_7C0: 15
+  response: 7C80361210F
+- expected_values:
+    PRIUSPRIME_VSS_7C0: 40
+  response: 7C803612128
+- expected_values:
+    PRIUSPRIME_VSS_7C0: 41
+  response: 7C803612129
+- expected_values:
+    PRIUSPRIME_VSS_7C0: 42
+  response: 7C80361212A

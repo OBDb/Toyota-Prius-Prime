@@ -6,3 +6,24 @@ test_cases:
 - expected_values:
     PRIUSPRIME_INVRT_COOLANT_T: 33
   response: 7DA046210B249
+- expected_values:
+    PRIUSPRIME_INVRT_COOLANT_T: 34
+  response: 7DA046210B24A
+- expected_values:
+    PRIUSPRIME_INVRT_COOLANT_T: 35
+  response: 7DA046210B24B
+- expected_values:
+    PRIUSPRIME_INVRT_COOLANT_T: 36
+  response: 7DA046210B24C
+- expected_values:
+    PRIUSPRIME_INVRT_COOLANT_T: 37
+  response: 7DA046210B24D
+- expected_values:
+    PRIUSPRIME_INVRT_COOLANT_T: 39
+  response: 7DA046210B24F
+- expected_values:
+    PRIUSPRIME_INVRT_COOLANT_T: 44
+  response: 7DA046210B254
+- expected_values:
+    PRIUSPRIME_INVRT_COOLANT_T: 45
+  response: 7DA046210B255

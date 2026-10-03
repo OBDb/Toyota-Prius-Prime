@@ -9,3 +9,18 @@ test_cases:
 - expected_values:
     PRIUSPRIME_ECT: 28.25
   response: 7CC0361264D
+- expected_values:
+    PRIUSPRIME_ECT: 28.6
+  response: 7CC0361264E
+- expected_values:
+    PRIUSPRIME_ECT: 30
+  response: 7CC03612652
+- expected_values:
+    PRIUSPRIME_ECT: 30.7
+  response: 7CC03612654
+- expected_values:
+    PRIUSPRIME_ECT: 33.15
+  response: 7CC0361265B
+- expected_values:
+    PRIUSPRIME_ECT: 35.6
+  response: 7CC03612662

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PRIUSPRIME_BLOWER_MOTOR_SPEED_LEVEL: 0
   response: 7CC03613C00
+- expected_values:
+    PRIUSPRIME_BLOWER_MOTOR_SPEED_LEVEL: 9
+  response: 7CC03613C09

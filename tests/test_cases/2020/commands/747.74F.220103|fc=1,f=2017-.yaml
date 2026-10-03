@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     PRIUSPRIME_ODO: 43534
   response: 74F076201030200AA0E
+- expected_values:
+    PRIUSPRIME_ODO: 43535
+  response: 74F076201030200AA0F
+- expected_values:
+    PRIUSPRIME_ODO: 43536
+  response: 74F076201030200AA10
+- expected_values:
+    PRIUSPRIME_ODO: 43537
+  response: 74F076201030200AA11
+- expected_values:
+    PRIUSPRIME_ODO: 43538
+  response: 74F076201030200AA12
+- expected_values:
+    PRIUSPRIME_ODO: 43539
+  response: 74F076201030200AA13

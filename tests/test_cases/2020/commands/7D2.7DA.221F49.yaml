@@ -4,5 +4,11 @@ test_cases:
     PRIUSPRIME_ACC_PEDAL_POS_1: 15.68627
   response: 7DA04621F4928
 - expected_values:
+    PRIUSPRIME_ACC_PEDAL_POS_1: 18.43137
+  response: 7DA04621F492F
+- expected_values:
+    PRIUSPRIME_ACC_PEDAL_POS_1: 27.45098
+  response: 7DA04621F4946
+- expected_values:
     PRIUSPRIME_ACC_PEDAL_POS_1: 32.94118
   response: 7DA04621F4954
