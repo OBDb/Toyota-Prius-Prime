@@ -1,6 +1,9 @@
 command_id: 700.708.22108F
 test_cases:
 - expected_values:
+    PRIUSPRIME_EXHAUST_VVT_OVER_ADV_LEARN_B1: 94.04293
+  response: 7080562108F259E
+- expected_values:
     PRIUSPRIME_EXHAUST_VVT_OVER_ADV_LEARN_B1: 94.19918
   response: 7080562108F25AE
 - expected_values:

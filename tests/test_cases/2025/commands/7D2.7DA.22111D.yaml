@@ -16,6 +16,9 @@ test_cases:
     PRIUSPRIME_DC_DC_CONV_LOW_SIDE_V: 13.671
   response: 7DA0462111DAF
 - expected_values:
+    PRIUSPRIME_DC_DC_CONV_LOW_SIDE_V: 13.74912
+  response: 7DA0462111DB0
+- expected_values:
     PRIUSPRIME_DC_DC_CONV_LOW_SIDE_V: 13.90536
   response: 7DA0462111DB2
 - expected_values:
