@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     PRIUSPRIME_CAT_T_11: 319.3
   response: 70805621F3C0E09
+- expected_values:
+    PRIUSPRIME_CAT_T_11: 503.2
+  response: 70805621F3C1538
+- expected_values:
+    PRIUSPRIME_CAT_T_11: 536.6
+  response: 70805621F3C1686
+- expected_values:
+    PRIUSPRIME_CAT_T_11: 581.9
+  response: 70805621F3C184B
+- expected_values:
+    PRIUSPRIME_CAT_T_11: 592.5
+  response: 70805621F3C18B5
+- expected_values:
+    PRIUSPRIME_CAT_T_11: 661.4
+  response: 70805621F3C1B66

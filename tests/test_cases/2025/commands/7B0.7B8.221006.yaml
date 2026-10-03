@@ -10,5 +10,11 @@ test_cases:
     PRIUSPRIME_MASTER_CYL_TEMP: 22
   response: 7B8056210066600
 - expected_values:
+    PRIUSPRIME_MASTER_CYL_TEMP: 23
+  response: 7B8056210066700
+- expected_values:
     PRIUSPRIME_MASTER_CYL_TEMP: 24
   response: 7B8056210066800
+- expected_values:
+    PRIUSPRIME_MASTER_CYL_TEMP: 25
+  response: 7B8056210066900

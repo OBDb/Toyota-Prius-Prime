@@ -4,11 +4,11 @@ test_cases:
     PRIUSPRIME_12V_C: -6.2522
   response: 7DA056215F77999
 - expected_values:
-    PRIUSPRIME_12V_C: -5.01243
-  response: 7DA056215F77ADE
+    PRIUSPRIME_12V_C: 0.96902
+  response: 7DA056215F780FE
 - expected_values:
-    PRIUSPRIME_12V_C: 1.00336
-  response: 7DA056215F78107
+    PRIUSPRIME_12V_C: 0.98428
+  response: 7DA056215F78102
 - expected_values:
     PRIUSPRIME_12V_C: 10.50577
   response: 7DA056215F78AC2

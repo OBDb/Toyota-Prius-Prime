@@ -10,5 +10,8 @@ test_cases:
     PRIUSPRIME_BATTERY_VOLTAGE_7C0: 13.6
   response: 7C80462102188
 - expected_values:
+    PRIUSPRIME_BATTERY_VOLTAGE_7C0: 14.1
+  response: 7C8046210218D
+- expected_values:
     PRIUSPRIME_BATTERY_VOLTAGE_7C0: 14.2
   response: 7C8046210218E
