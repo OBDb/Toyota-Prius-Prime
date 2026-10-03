@@ -1,0 +1,8 @@
+command_id: 7C4.7CC.214B
+test_cases:
+- expected_values:
+    PRIUSPRIME_EVAP_FIN_THERMISTOR: 27
+  response: 7CC03614BA2
+- expected_values:
+    PRIUSPRIME_EVAP_FIN_THERMISTOR: 27.35
+  response: 7CC03614BA3

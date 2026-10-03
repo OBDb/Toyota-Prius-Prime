@@ -1,0 +1,14 @@
+command_id: 747.74F.221824|f=2017-
+test_cases:
+- expected_values:
+    PRIUSPRIME_BAT_HEATER_T: 27
+  response: 74F066218244D7A77
+- expected_values:
+    PRIUSPRIME_BAT_HEATER_T: 27
+  response: 74F066218244D7A87
+- expected_values:
+    PRIUSPRIME_BAT_HEATER_T: 27
+  response: 74F066218244D7A97
+- expected_values:
+    PRIUSPRIME_BAT_HEATER_T: 27
+  response: 74F066218244D7AB7

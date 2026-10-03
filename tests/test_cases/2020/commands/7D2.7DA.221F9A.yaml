@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.221F9A
+test_cases:
+- expected_values:
+    PRIUSPRIME_HVBAT_C: 57.5
+    PRIUSPRIME_HVBAT_V: 339
+  response: |-
+    7DA1009621F9A0E0254
+    7DA21C0023F00000000
+- expected_values:
+    PRIUSPRIME_HVBAT_C: 0.6
+    PRIUSPRIME_HVBAT_V: 345
+  response: |-
+    7DA1009621F9A0E0256
+    7DA2140000600000000

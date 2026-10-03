@@ -1,0 +1,6 @@
+command_id: 7D2.7DA.2210A7
+test_cases:
+- expected_values:
+    PRIUSPRIME_BOOSTING_CONV_T_HI: 30
+    PRIUSPRIME_BOOSTING_CONV_T_LO: 30
+  response: 7DA076210A746464457

@@ -1,0 +1,17 @@
+command_id: 747.74F.221F9A|f=2017-
+test_cases:
+- expected_values:
+    PRIUSPRIME_HYBRID_BAT_CURRENT: 0.6
+  response: |-
+    74F1009621F9A060056
+    74F2140000600000000
+- expected_values:
+    PRIUSPRIME_HYBRID_BAT_CURRENT: 0.7
+  response: |-
+    74F1009621F9A060056
+    74F2140000700000000
+- expected_values:
+    PRIUSPRIME_HYBRID_BAT_CURRENT: 0.9
+  response: |-
+    74F1009621F9A060056
+    74F2140000900000000
