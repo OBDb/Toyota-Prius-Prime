@@ -1,11 +1,11 @@
 command_id: 7D2.7DA.221F42
 test_cases:
 - expected_values:
+    PRIUSPRIME_12V_BAT_V_SMOOTHED: 12.534
+  response: 7DA05621F4230F6
+- expected_values:
     PRIUSPRIME_12V_BAT_V_SMOOTHED: 12.548
   response: 7DA05621F423104
 - expected_values:
-    PRIUSPRIME_12V_BAT_V_SMOOTHED: 12.734
-  response: 7DA05621F4231BE
-- expected_values:
-    PRIUSPRIME_12V_BAT_V_SMOOTHED: 13.867
-  response: 7DA05621F42362B
+    PRIUSPRIME_12V_BAT_V_SMOOTHED: 13.862
+  response: 7DA05621F423626

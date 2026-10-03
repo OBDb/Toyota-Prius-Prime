@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     PRIUSPRIME_HVBAT_MAX_T: 33
   response: 7DA056218295300
+- expected_values:
+    PRIUSPRIME_HVBAT_MAX_T: 35
+  response: 7DA056218295500

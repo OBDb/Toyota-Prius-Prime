@@ -15,3 +15,12 @@ test_cases:
 - expected_values:
     PRIUSPRIME_EOP: 1.875
   response: '708056210740018'
+- expected_values:
+    PRIUSPRIME_EOP: 2.57812
+  response: '708056210740021'
+- expected_values:
+    PRIUSPRIME_EOP: 145.54688
+  response: '708056210740747'
+- expected_values:
+    PRIUSPRIME_EOP: 190.23438
+  response: '708056210740983'

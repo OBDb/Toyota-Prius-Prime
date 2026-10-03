@@ -15,3 +15,12 @@ test_cases:
 - expected_values:
     PRIUSPRIME_ECU_INTERNAL_T: 27
   response: '7080462105E43'
+- expected_values:
+    PRIUSPRIME_ECU_INTERNAL_T: 28
+  response: '7080462105E44'
+- expected_values:
+    PRIUSPRIME_ECU_INTERNAL_T: 29
+  response: '7080462105E45'
+- expected_values:
+    PRIUSPRIME_ECU_INTERNAL_T: 31
+  response: '7080462105E47'

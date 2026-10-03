@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     PRIUSPRIME_EOP_CONTROL_VALVE: 99.94501
   response: 70805622848051E
+- expected_values:
+    PRIUSPRIME_EOP_CONTROL_VALVE: 564.80374
+  response: 708056228481CEB
+- expected_values:
+    PRIUSPRIME_EOP_CONTROL_VALVE: 613.09778
+  response: 708056228481F64
