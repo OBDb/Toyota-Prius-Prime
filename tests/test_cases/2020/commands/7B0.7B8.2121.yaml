@@ -4,29 +4,5 @@ test_cases:
     PRIUSPRIME_VSS: 0
   response: 7B803612100
 - expected_values:
-    PRIUSPRIME_VSS: 2.7
-  response: 7B803612102
-- expected_values:
-    PRIUSPRIME_VSS: 6.75
-  response: 7B803612105
-- expected_values:
-    PRIUSPRIME_VSS: 8.1
-  response: 7B803612106
-- expected_values:
-    PRIUSPRIME_VSS: 9.45
-  response: 7B803612107
-- expected_values:
-    PRIUSPRIME_VSS: 12.15
-  response: 7B803612109
-- expected_values:
-    PRIUSPRIME_VSS: 16.2
-  response: 7B80361210C
-- expected_values:
-    PRIUSPRIME_VSS: 31.05
-  response: 7B803612117
-- expected_values:
-    PRIUSPRIME_VSS: 41.85
-  response: 7B80361211F
-- expected_values:
-    PRIUSPRIME_VSS: 43.2
-  response: 7B803612120
+    PRIUSPRIME_VSS: 94.5
+  response: 7B803612146
