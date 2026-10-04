@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F05
 test_cases:
 - expected_values:
-    PRIUSPRIME_COOL_T: 20
-  response: 7DA04621F053C
+    PRIUSPRIME_COOL_T: 14
+  response: 7DA04621F0536
 - expected_values:
     PRIUSPRIME_COOL_T: null
   response: 7DA04621F05FF

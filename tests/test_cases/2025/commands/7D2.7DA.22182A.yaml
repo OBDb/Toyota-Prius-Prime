@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.22182A
 test_cases:
 - expected_values:
-    PRIUSPRIME_HVBAT_MIN_T: 20
-  response: 7DA0562182A4600
+    PRIUSPRIME_HVBAT_MIN_T: 15
+  response: 7DA0562182A4100
 - expected_values:
     PRIUSPRIME_HVBAT_MIN_T: 32
   response: 7DA0562182A5200

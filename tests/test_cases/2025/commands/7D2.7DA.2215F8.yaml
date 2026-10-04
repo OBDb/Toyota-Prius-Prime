@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.2215F8
 test_cases:
 - expected_values:
-    PRIUSPRIME_12V_T: 18.6
-  response: 7DA056215F8024A
+    PRIUSPRIME_12V_T: 14.8
+  response: 7DA056215F80224
 - expected_values:
     PRIUSPRIME_12V_T: 24.3
   response: 7DA056215F80283

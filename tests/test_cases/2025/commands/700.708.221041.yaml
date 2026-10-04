@@ -1,9 +1,9 @@
 command_id: 700.708.221041
 test_cases:
 - expected_values:
-    PRIUSPRIME_ECT_IGN: 20
-    PRIUSPRIME_ECT_INIT: 20
-  response: '708056210416060'
+    PRIUSPRIME_ECT_IGN: 14.375
+    PRIUSPRIME_ECT_INIT: 14.375
+  response: '708056210415757'
 - expected_values:
     PRIUSPRIME_ECT_IGN: 25.625
     PRIUSPRIME_ECT_INIT: 88.125
