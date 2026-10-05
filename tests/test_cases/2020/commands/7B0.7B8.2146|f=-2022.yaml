@@ -1,4 +1,4 @@
-command_id: 7B0.7B8.2146
+command_id: 7B0.7B8.2146|f=-2022
 test_cases:
 - expected_values:
     PRIUSPRIME_ZP_DEC: 0
