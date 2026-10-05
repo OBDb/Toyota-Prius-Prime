@@ -1,4 +1,4 @@
-command_id: 7B0.7B8.213C
+command_id: 7B0.7B8.213C|f=-2022
 test_cases:
 - expected_values:
     PRIUSPRIME_STOP_LIGHT_RELAY: 0

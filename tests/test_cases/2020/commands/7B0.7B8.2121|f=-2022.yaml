@@ -1,4 +1,4 @@
-command_id: 7B0.7B8.2121
+command_id: 7B0.7B8.2121|f=-2022
 test_cases:
 - expected_values:
     PRIUSPRIME_VSS: 0

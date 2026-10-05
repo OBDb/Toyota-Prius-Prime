@@ -1,4 +1,4 @@
-command_id: 7B0.7B8.215A
+command_id: 7B0.7B8.215A|f=-2022
 test_cases:
 - expected_values:
     PRIUSPRIME_FL_WHEEL_VSC_CTRL: 0

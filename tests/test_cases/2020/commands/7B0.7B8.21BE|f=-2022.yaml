@@ -1,4 +1,4 @@
-command_id: 7B0.7B8.21BE
+command_id: 7B0.7B8.21BE|f=-2022
 test_cases:
 - expected_values:
     PRIUSPRIME_ACCUMULATOR_OPEN: 0
