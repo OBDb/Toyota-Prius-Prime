@@ -1,6 +1,14 @@
 command_id: 750.758.2116|e=2A,fc=1
 test_cases:
 - expected_values:
+    PRIUSPRIME_TT_FL: 24
+    PRIUSPRIME_TT_FR: 23
+    PRIUSPRIME_TT_RL: 27
+    PRIUSPRIME_TT_RR: 26
+  response: |-
+    7582A10076116403F43
+    7582A21420000000000
+- expected_values:
     PRIUSPRIME_TT_FL: 26
     PRIUSPRIME_TT_FR: 27
     PRIUSPRIME_TT_RL: 26
