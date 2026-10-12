@@ -1,7 +1,7 @@
 command_id: 7C0.7C8.221021
 test_cases:
 - expected_values:
-    PRIUSPRIME_BATTERY_VOLTAGE_7C0: 0
+    PRIUSPRIME_BATTERY_VOLTAGE_7C0: null
   response: 7C80462102100
 - expected_values:
     PRIUSPRIME_BATTERY_VOLTAGE_7C0: 14.1
