@@ -7,6 +7,12 @@ test_cases:
     7DA1009621F9A0E003C
     7DA21C003BA00000000
 - expected_values:
+    PRIUSPRIME_HVBAT_C: 59.6
+    PRIUSPRIME_HVBAT_V: 244
+  response: |-
+    7DA1009621F9A0E003D
+    7DA2100025400000000
+- expected_values:
     PRIUSPRIME_HVBAT_C: 63.9
     PRIUSPRIME_HVBAT_V: 245
   response: |-
@@ -24,12 +30,6 @@ test_cases:
   response: |-
     7DA1009621F9A0E003D
     7DA2180FEF200000000
-- expected_values:
-    PRIUSPRIME_HVBAT_C: 6.1
-    PRIUSPRIME_HVBAT_V: 248
-  response: |-
-    7DA1009621F9A0E003E
-    7DA2100003D00000000
 - expected_values:
     PRIUSPRIME_HVBAT_C: 1
     PRIUSPRIME_HVBAT_V: 250
