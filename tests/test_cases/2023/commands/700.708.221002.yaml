@@ -4,5 +4,11 @@ test_cases:
     PRIUSPRIME_12V_V: 12.04098
   response: '708056210022688'
 - expected_values:
-    PRIUSPRIME_12V_V: 14.11129
-  response: 708056210022D28
+    PRIUSPRIME_12V_V: 12.80758
+  response: 7080562100228FC
+- expected_values:
+    PRIUSPRIME_12V_V: 12.81247
+  response: '708056210022900'
+- expected_values:
+    PRIUSPRIME_12V_V: 14.37496
+  response: '708056210022E00'
