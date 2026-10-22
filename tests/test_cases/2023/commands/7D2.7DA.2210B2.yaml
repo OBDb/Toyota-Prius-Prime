@@ -1,23 +1,8 @@
 command_id: 7D2.7DA.2210B2
 test_cases:
 - expected_values:
-    PRIUSPRIME_INVRT_COOLANT_T: 22
-  response: 7DA046210B23E
+    PRIUSPRIME_INVRT_COOLANT_T: 3
+  response: 7DA046210B22B
 - expected_values:
-    PRIUSPRIME_INVRT_COOLANT_T: 23
-  response: 7DA046210B23F
-- expected_values:
-    PRIUSPRIME_INVRT_COOLANT_T: 24
-  response: 7DA046210B240
-- expected_values:
-    PRIUSPRIME_INVRT_COOLANT_T: 25
-  response: 7DA046210B241
-- expected_values:
-    PRIUSPRIME_INVRT_COOLANT_T: 26
-  response: 7DA046210B242
-- expected_values:
-    PRIUSPRIME_INVRT_COOLANT_T: 27
-  response: 7DA046210B243
-- expected_values:
-    PRIUSPRIME_INVRT_COOLANT_T: 28
-  response: 7DA046210B244
+    PRIUSPRIME_INVRT_COOLANT_T: 47
+  response: 7DA046210B257

@@ -1,8 +1,14 @@
 command_id: 700.708.22106C
 test_cases:
 - expected_values:
+    PRIUSPRIME_DIST_SINCE_BAT_DISC: 5697
+  response: 7080562106C1641
+- expected_values:
+    PRIUSPRIME_DIST_SINCE_BAT_DISC: 5887
+  response: 7080562106C16FF
+- expected_values:
+    PRIUSPRIME_DIST_SINCE_BAT_DISC: 5888
+  response: 7080562106C1700
+- expected_values:
     PRIUSPRIME_DIST_SINCE_BAT_DISC: 25833
   response: 7080562106C64E9
-- expected_values:
-    PRIUSPRIME_DIST_SINCE_BAT_DISC: 25848
-  response: 7080562106C64F8

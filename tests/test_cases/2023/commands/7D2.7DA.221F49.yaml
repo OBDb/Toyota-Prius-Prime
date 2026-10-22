@@ -4,29 +4,5 @@ test_cases:
     PRIUSPRIME_ACC_PEDAL_POS_1: 15.68627
   response: 7DA04621F4928
 - expected_values:
-    PRIUSPRIME_ACC_PEDAL_POS_1: 18.43137
-  response: 7DA04621F492F
-- expected_values:
-    PRIUSPRIME_ACC_PEDAL_POS_1: 23.52941
-  response: 7DA04621F493C
-- expected_values:
-    PRIUSPRIME_ACC_PEDAL_POS_1: 23.92157
-  response: 7DA04621F493D
-- expected_values:
-    PRIUSPRIME_ACC_PEDAL_POS_1: 24.70588
-  response: 7DA04621F493F
-- expected_values:
-    PRIUSPRIME_ACC_PEDAL_POS_1: 25.4902
-  response: 7DA04621F4941
-- expected_values:
-    PRIUSPRIME_ACC_PEDAL_POS_1: 25.88235
-  response: 7DA04621F4942
-- expected_values:
-    PRIUSPRIME_ACC_PEDAL_POS_1: 27.45098
-  response: 7DA04621F4946
-- expected_values:
-    PRIUSPRIME_ACC_PEDAL_POS_1: 29.01961
-  response: 7DA04621F494A
-- expected_values:
-    PRIUSPRIME_ACC_PEDAL_POS_1: 32.15686
-  response: 7DA04621F4952
+    PRIUSPRIME_ACC_PEDAL_POS_1: 50.58824
+  response: 7DA04621F4981

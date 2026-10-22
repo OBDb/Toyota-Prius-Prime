@@ -2,16 +2,16 @@ command_id: 700.708.221019
 test_cases:
 - expected_values:
     PRIUSPRIME_INJECTION: DIRECT
-  response: '7080762101901338000'
+  response: 70807621019012C88FC
+- expected_values:
+    PRIUSPRIME_INJECTION: DIRECT
+  response: '7080762101901328000'
 - expected_values:
     PRIUSPRIME_INJECTION: BOTH
-  response: '7080762101902328000'
+  response: '7080762101902108000'
 - expected_values:
     PRIUSPRIME_INJECTION: BOTH
-  response: '7080762101902798000'
+  response: 7080762101902A28A8C
 - expected_values:
     PRIUSPRIME_INJECTION: BOTH
-  response: '7080762101902858000'
-- expected_values:
-    PRIUSPRIME_INJECTION: BOTH
-  response: 7080762101902B78AF0
+  response: 7080762101902EF8A8C

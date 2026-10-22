@@ -1,8 +1,8 @@
 command_id: 700.708.221F5C
 test_cases:
 - expected_values:
-    PRIUSPRIME_EOT_V2: 19
-  response: 70804621F5C3B
+    PRIUSPRIME_EOT_V2: 7
+  response: 70804621F5C2F
 - expected_values:
-    PRIUSPRIME_EOT_V2: 71
-  response: 70804621F5C6F
+    PRIUSPRIME_EOT_V2: 97
+  response: 70804621F5C89

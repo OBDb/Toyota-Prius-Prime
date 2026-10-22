@@ -1,8 +1,8 @@
 command_id: 700.708.22105E
 test_cases:
 - expected_values:
-    PRIUSPRIME_ECU_INTERNAL_T: 22
-  response: 7080462105E3E
+    PRIUSPRIME_ECU_INTERNAL_T: 8
+  response: '7080462105E30'
 - expected_values:
     PRIUSPRIME_ECU_INTERNAL_T: 33
   response: '7080462105E49'
